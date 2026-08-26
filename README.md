@@ -155,7 +155,7 @@ Trajectory data and trained probe weights are included for convenience (no need 
 ```bibtex
 @inproceedings{latent-probe-2026,
   title     = {Decoding Self-Knowledge from Latent Reasoning Models for Selective Prediction and Adaptive Routing},
-  author    = {Author Names},
+  author    = {Zhiqi Li and Yichi Zhang and Cunjie He and Ziheng Hua and Maolin Wang and Zenglin Xu},
   booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},
   year      = {2026}
 }
