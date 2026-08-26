@@ -1,0 +1,7602 @@
+[
+  {
+    "idx": 0,
+    "gt_answer": "18",
+    "rollouts": [
+      {
+        "seed": 420000,
+        "correct": false,
+        "answer": "10",
+        "T": 8,
+        "confidence": 0.02700677141547203,
+        "mean_entropy": 2.4334909915924072
+      },
+      {
+        "seed": 420001,
+        "correct": false,
+        "answer": "62",
+        "T": 13,
+        "confidence": 0.004057660698890686,
+        "mean_entropy": 2.957214117050171
+      },
+      {
+        "seed": 420002,
+        "correct": false,
+        "answer": "336",
+        "T": 8,
+        "confidence": 0.025984546169638634,
+        "mean_entropy": 2.4047865867614746
+      },
+      {
+        "seed": 420003,
+        "correct": false,
+        "answer": "892",
+        "T": 7,
+        "confidence": 0.013897738419473171,
+        "mean_entropy": 3.135136127471924
+      },
+      {
+        "seed": 420004,
+        "correct": false,
+        "answer": "32050",
+        "T": 8,
+        "confidence": 0.018080448731780052,
+        "mean_entropy": 2.7406363487243652
+      },
+      {
+        "seed": 420005,
+        "correct": false,
+        "answer": "421.",
+        "T": 8,
+        "confidence": 0.04182954505085945,
+        "mean_entropy": 3.036078453063965
+      },
+      {
+        "seed": 420006,
+        "correct": false,
+        "answer": "107180",
+        "T": 7,
+        "confidence": 0.022280819714069366,
+        "mean_entropy": 3.6175711154937744
+      },
+      {
+        "seed": 420007,
+        "correct": false,
+        "answer": "90",
+        "T": 9,
+        "confidence": 0.18524052202701569,
+        "mean_entropy": 3.3952412605285645
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "18",
+      "T": 5,
+      "confidence": 0.5793006420135498
+    }
+  },
+  {
+    "idx": 1,
+    "gt_answer": "3",
+    "rollouts": [
+      {
+        "seed": 420100,
+        "correct": false,
+        "answer": "~9",
+        "T": 5,
+        "confidence": 0.41576817631721497,
+        "mean_entropy": 1.7835910320281982
+      },
+      {
+        "seed": 420101,
+        "correct": false,
+        "answer": "6",
+        "T": 5,
+        "confidence": 0.37470486760139465,
+        "mean_entropy": 2.2356929779052734
+      },
+      {
+        "seed": 420102,
+        "correct": false,
+        "answer": "4",
+        "T": 4,
+        "confidence": 0.21027317643165588,
+        "mean_entropy": 2.5569300651550293
+      },
+      {
+        "seed": 420103,
+        "correct": false,
+        "answer": "428",
+        "T": 4,
+        "confidence": 0.2893984913825989,
+        "mean_entropy": 2.5257251262664795
+      },
+      {
+        "seed": 420104,
+        "correct": false,
+        "answer": "3.5",
+        "T": 5,
+        "confidence": 0.24756644666194916,
+        "mean_entropy": 1.9457581043243408
+      },
+      {
+        "seed": 420105,
+        "correct": false,
+        "answer": "43",
+        "T": 5,
+        "confidence": 0.2588011622428894,
+        "mean_entropy": 1.8837273120880127
+      },
+      {
+        "seed": 420106,
+        "correct": false,
+        "answer": "1",
+        "T": 4,
+        "confidence": 0.8676992058753967,
+        "mean_entropy": 2.4123694896698
+      },
+      {
+        "seed": 420107,
+        "correct": false,
+        "answer": "38",
+        "T": 5,
+        "confidence": 0.09288816899061203,
+        "mean_entropy": 1.8927528858184814
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "3",
+      "T": 5,
+      "confidence": 0.9743073582649231
+    }
+  },
+  {
+    "idx": 2,
+    "gt_answer": "70000",
+    "rollouts": [
+      {
+        "seed": 420200,
+        "correct": false,
+        "answer": "500000",
+        "T": 11,
+        "confidence": 0.028674926608800888,
+        "mean_entropy": 3.4794836044311523
+      },
+      {
+        "seed": 420201,
+        "correct": false,
+        "answer": "1,675",
+        "T": 11,
+        "confidence": 0.044525645673274994,
+        "mean_entropy": 3.4678914546966553
+      },
+      {
+        "seed": 420202,
+        "correct": false,
+        "answer": "173,000",
+        "T": 6,
+        "confidence": 0.056266725063323975,
+        "mean_entropy": 2.8285961151123047
+      },
+      {
+        "seed": 420203,
+        "correct": false,
+        "answer": "8,000",
+        "T": 7,
+        "confidence": 0.10481378436088562,
+        "mean_entropy": 3.0267367362976074
+      },
+      {
+        "seed": 420204,
+        "correct": false,
+        "answer": "1258050",
+        "T": 12,
+        "confidence": 0.017049487680196762,
+        "mean_entropy": 3.120258331298828
+      },
+      {
+        "seed": 420205,
+        "correct": false,
+        "answer": "31888649015",
+        "T": 34,
+        "confidence": 7.861228368710726e-05,
+        "mean_entropy": 3.6088223457336426
+      },
+      {
+        "seed": 420206,
+        "correct": false,
+        "answer": "100000",
+        "T": 16,
+        "confidence": 0.0024022816214710474,
+        "mean_entropy": 3.401790142059326
+      },
+      {
+        "seed": 420207,
+        "correct": false,
+        "answer": "105260000",
+        "T": 8,
+        "confidence": 0.8251928091049194,
+        "mean_entropy": 3.61677622795105
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "50000",
+      "T": 9,
+      "confidence": 0.02955053374171257
+    }
+  },
+  {
+    "idx": 3,
+    "gt_answer": "540",
+    "rollouts": [
+      {
+        "seed": 420300,
+        "correct": false,
+        "answer": "1088",
+        "T": 5,
+        "confidence": 0.8997968435287476,
+        "mean_entropy": 2.739880084991455
+      },
+      {
+        "seed": 420301,
+        "correct": false,
+        "answer": "372",
+        "T": 3,
+        "confidence": 0.15993107855319977,
+        "mean_entropy": 0.8151565194129944
+      },
+      {
+        "seed": 420302,
+        "correct": false,
+        "answer": "900",
+        "T": 4,
+        "confidence": 0.0670989602804184,
+        "mean_entropy": 3.457937240600586
+      },
+      {
+        "seed": 420303,
+        "correct": false,
+        "answer": "3,540",
+        "T": 5,
+        "confidence": 0.03880109637975693,
+        "mean_entropy": 3.491809129714966
+      },
+      {
+        "seed": 420304,
+        "correct": false,
+        "answer": "133280",
+        "T": 10,
+        "confidence": 0.018807344138622284,
+        "mean_entropy": 3.53057861328125
+      },
+      {
+        "seed": 420305,
+        "correct": false,
+        "answer": "10,800",
+        "T": 4,
+        "confidence": 0.04837092384696007,
+        "mean_entropy": 3.1400411128997803
+      },
+      {
+        "seed": 420306,
+        "correct": false,
+        "answer": "54",
+        "T": 5,
+        "confidence": 0.0677153691649437,
+        "mean_entropy": 2.105052947998047
+      },
+      {
+        "seed": 420307,
+        "correct": false,
+        "answer": "240",
+        "T": 4,
+        "confidence": 0.2763778865337372,
+        "mean_entropy": 2.5394413471221924
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "540",
+      "T": 5,
+      "confidence": 0.9593747854232788
+    }
+  },
+  {
+    "idx": 4,
+    "gt_answer": "20",
+    "rollouts": [
+      {
+        "seed": 420400,
+        "correct": false,
+        "answer": "-44",
+        "T": 6,
+        "confidence": 0.01730261743068695,
+        "mean_entropy": 2.478134870529175
+      },
+      {
+        "seed": 420401,
+        "correct": false,
+        "answer": "36",
+        "T": 4,
+        "confidence": 0.04806531220674515,
+        "mean_entropy": 1.8376299142837524
+      },
+      {
+        "seed": 420402,
+        "correct": false,
+        "answer": "65",
+        "T": 3,
+        "confidence": 0.061719294637441635,
+        "mean_entropy": 2.9060161113739014
+      },
+      {
+        "seed": 420403,
+        "correct": false,
+        "answer": "10",
+        "T": 3,
+        "confidence": 0.03865645453333855,
+        "mean_entropy": 3.05393385887146
+      },
+      {
+        "seed": 420404,
+        "correct": false,
+        "answer": "210",
+        "T": 6,
+        "confidence": 0.033261168748140335,
+        "mean_entropy": 3.344092607498169
+      },
+      {
+        "seed": 420405,
+        "correct": false,
+        "answer": "13",
+        "T": 7,
+        "confidence": 0.05031571909785271,
+        "mean_entropy": 2.07885479927063
+      },
+      {
+        "seed": 420406,
+        "correct": false,
+        "answer": "304",
+        "T": 3,
+        "confidence": 0.061771463602781296,
+        "mean_entropy": 0.7652348875999451
+      },
+      {
+        "seed": 420407,
+        "correct": false,
+        "answer": "123",
+        "T": 6,
+        "confidence": 0.0202599186450243,
+        "mean_entropy": 3.1759424209594727
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "12",
+      "T": 5,
+      "confidence": 0.01765420287847519
+    }
+  },
+  {
+    "idx": 5,
+    "gt_answer": "64",
+    "rollouts": [
+      {
+        "seed": 420500,
+        "correct": false,
+        "answer": "12.135",
+        "T": 10,
+        "confidence": 0.019111817702651024,
+        "mean_entropy": 3.4185779094696045
+      },
+      {
+        "seed": 420501,
+        "correct": false,
+        "answer": "15,900",
+        "T": 10,
+        "confidence": 0.043487243354320526,
+        "mean_entropy": 3.0073063373565674
+      },
+      {
+        "seed": 420502,
+        "correct": false,
+        "answer": "\ufffd",
+        "T": 7,
+        "confidence": 0.03417717665433884,
+        "mean_entropy": 3.213202953338623
+      },
+      {
+        "seed": 420503,
+        "correct": false,
+        "answer": "200",
+        "T": 4,
+        "confidence": 0.0688912570476532,
+        "mean_entropy": 2.71420955657959
+      },
+      {
+        "seed": 420504,
+        "correct": false,
+        "answer": "556120",
+        "T": 11,
+        "confidence": 0.016114285215735435,
+        "mean_entropy": 3.5220870971679688
+      },
+      {
+        "seed": 420505,
+        "correct": false,
+        "answer": "34,999",
+        "T": 12,
+        "confidence": 0.009372959844768047,
+        "mean_entropy": 3.126938581466675
+      },
+      {
+        "seed": 420506,
+        "correct": false,
+        "answer": "24.24",
+        "T": 17,
+        "confidence": 0.003257802687585354,
+        "mean_entropy": 2.7284717559814453
+      },
+      {
+        "seed": 420507,
+        "correct": false,
+        "answer": "10,400",
+        "T": 12,
+        "confidence": 0.025292878970503807,
+        "mean_entropy": 3.002990961074829
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "54",
+      "T": 9,
+      "confidence": 0.05583230406045914
+    }
+  },
+  {
+    "idx": 6,
+    "gt_answer": "260",
+    "rollouts": [
+      {
+        "seed": 420600,
+        "correct": false,
+        "answer": "21",
+        "T": 6,
+        "confidence": 0.36709722876548767,
+        "mean_entropy": 2.602311372756958
+      },
+      {
+        "seed": 420601,
+        "correct": false,
+        "answer": "960000",
+        "T": 6,
+        "confidence": 0.0856519341468811,
+        "mean_entropy": 2.74737811088562
+      },
+      {
+        "seed": 420602,
+        "correct": false,
+        "answer": "6",
+        "T": 8,
+        "confidence": 0.9584529995918274,
+        "mean_entropy": 2.006498098373413
+      },
+      {
+        "seed": 420603,
+        "correct": false,
+        "answer": "3400",
+        "T": 6,
+        "confidence": 0.6670896410942078,
+        "mean_entropy": 3.43733286857605
+      },
+      {
+        "seed": 420604,
+        "correct": false,
+        "answer": "840",
+        "T": 9,
+        "confidence": 0.0362241268157959,
+        "mean_entropy": 2.3767919540405273
+      },
+      {
+        "seed": 420605,
+        "correct": false,
+        "answer": "440",
+        "T": 8,
+        "confidence": 0.04883511736989021,
+        "mean_entropy": 2.9105215072631836
+      },
+      {
+        "seed": 420606,
+        "correct": false,
+        "answer": "9,355",
+        "T": 7,
+        "confidence": 0.13228951394557953,
+        "mean_entropy": 2.332533597946167
+      },
+      {
+        "seed": 420607,
+        "correct": false,
+        "answer": "1648",
+        "T": 6,
+        "confidence": 0.09667451679706573,
+        "mean_entropy": 2.3022561073303223
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "260",
+      "T": 7,
+      "confidence": 0.9874760508537292
+    }
+  },
+  {
+    "idx": 7,
+    "gt_answer": "160",
+    "rollouts": [
+      {
+        "seed": 420700,
+        "correct": false,
+        "answer": "1348",
+        "T": 6,
+        "confidence": 0.02747783437371254,
+        "mean_entropy": 4.175426006317139
+      },
+      {
+        "seed": 420701,
+        "correct": false,
+        "answer": "21,848",
+        "T": 13,
+        "confidence": 0.009140416979789734,
+        "mean_entropy": 3.7215821743011475
+      },
+      {
+        "seed": 420702,
+        "correct": false,
+        "answer": "34.62",
+        "T": 17,
+        "confidence": 0.012251311913132668,
+        "mean_entropy": 3.2046194076538086
+      },
+      {
+        "seed": 420703,
+        "correct": false,
+        "answer": "606",
+        "T": 6,
+        "confidence": 0.04206779599189758,
+        "mean_entropy": 2.9044272899627686
+      },
+      {
+        "seed": 420704,
+        "correct": false,
+        "answer": "155",
+        "T": 5,
+        "confidence": 0.051925983279943466,
+        "mean_entropy": 2.5751888751983643
+      },
+      {
+        "seed": 420705,
+        "correct": false,
+        "answer": "197",
+        "T": 5,
+        "confidence": 0.03529520705342293,
+        "mean_entropy": 3.2482547760009766
+      },
+      {
+        "seed": 420706,
+        "correct": false,
+        "answer": "16",
+        "T": 10,
+        "confidence": 0.022737862542271614,
+        "mean_entropy": 2.8310861587524414
+      },
+      {
+        "seed": 420707,
+        "correct": false,
+        "answer": "40",
+        "T": 5,
+        "confidence": 0.029236631467938423,
+        "mean_entropy": 1.584606409072876
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "100",
+      "T": 5,
+      "confidence": 0.25772523880004883
+    }
+  },
+  {
+    "idx": 8,
+    "gt_answer": "45",
+    "rollouts": [
+      {
+        "seed": 420800,
+        "correct": false,
+        "answer": "80",
+        "T": 9,
+        "confidence": 0.013446599245071411,
+        "mean_entropy": 2.483473062515259
+      },
+      {
+        "seed": 420801,
+        "correct": false,
+        "answer": "448",
+        "T": 9,
+        "confidence": 0.008859074674546719,
+        "mean_entropy": 2.375762939453125
+      },
+      {
+        "seed": 420802,
+        "correct": false,
+        "answer": "190",
+        "T": 12,
+        "confidence": 0.005374721717089415,
+        "mean_entropy": 2.4031789302825928
+      },
+      {
+        "seed": 420803,
+        "correct": false,
+        "answer": "13077",
+        "T": 14,
+        "confidence": 0.0033913690131157637,
+        "mean_entropy": 3.420581340789795
+      },
+      {
+        "seed": 420804,
+        "correct": false,
+        "answer": "6240",
+        "T": 12,
+        "confidence": 0.0043485937640070915,
+        "mean_entropy": 3.799966812133789
+      },
+      {
+        "seed": 420805,
+        "correct": false,
+        "answer": "36",
+        "T": 10,
+        "confidence": 0.020324083045125008,
+        "mean_entropy": 3.0218403339385986
+      },
+      {
+        "seed": 420806,
+        "correct": false,
+        "answer": "88.58",
+        "T": 9,
+        "confidence": 0.01944683864712715,
+        "mean_entropy": 3.508772134780884
+      },
+      {
+        "seed": 420807,
+        "correct": false,
+        "answer": "20,800",
+        "T": 12,
+        "confidence": 0.004446743056178093,
+        "mean_entropy": 2.985921859741211
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "255",
+      "T": 9,
+      "confidence": 0.017695298418402672
+    }
+  },
+  {
+    "idx": 9,
+    "gt_answer": "460",
+    "rollouts": [
+      {
+        "seed": 420900,
+        "correct": false,
+        "answer": "60,900",
+        "T": 10,
+        "confidence": 0.022109895944595337,
+        "mean_entropy": 3.0819833278656006
+      },
+      {
+        "seed": 420901,
+        "correct": false,
+        "answer": "64",
+        "T": 8,
+        "confidence": 0.027368294075131416,
+        "mean_entropy": 2.9783291816711426
+      },
+      {
+        "seed": 420902,
+        "correct": false,
+        "answer": "31897008",
+        "T": 37,
+        "confidence": 2.75213569693733e-05,
+        "mean_entropy": 3.5986380577087402
+      },
+      {
+        "seed": 420903,
+        "correct": false,
+        "answer": "35",
+        "T": 3,
+        "confidence": 0.11049375683069229,
+        "mean_entropy": 3.769009828567505
+      },
+      {
+        "seed": 420904,
+        "correct": false,
+        "answer": "486.28",
+        "T": 13,
+        "confidence": 0.013128447346389294,
+        "mean_entropy": 3.2441153526306152
+      },
+      {
+        "seed": 420905,
+        "correct": false,
+        "answer": "551.00",
+        "T": 7,
+        "confidence": 0.014451350085437298,
+        "mean_entropy": 2.9094090461730957
+      },
+      {
+        "seed": 420906,
+        "correct": false,
+        "answer": "42568",
+        "T": 28,
+        "confidence": 0.0008285397198051214,
+        "mean_entropy": 3.6148860454559326
+      },
+      {
+        "seed": 420907,
+        "correct": false,
+        "answer": "opt",
+        "T": 7,
+        "confidence": 0.030552763491868973,
+        "mean_entropy": 2.7165324687957764
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "880",
+      "T": 9,
+      "confidence": 0.2607371211051941
+    }
+  },
+  {
+    "idx": 10,
+    "gt_answer": "366",
+    "rollouts": [
+      {
+        "seed": 421000,
+        "correct": false,
+        "answer": "982",
+        "T": 9,
+        "confidence": 0.02315608598291874,
+        "mean_entropy": 3.774091958999634
+      },
+      {
+        "seed": 421001,
+        "correct": false,
+        "answer": "11",
+        "T": 7,
+        "confidence": 0.061560992151498795,
+        "mean_entropy": 2.716418981552124
+      },
+      {
+        "seed": 421002,
+        "correct": false,
+        "answer": "6167",
+        "T": 17,
+        "confidence": 0.0011002372484654188,
+        "mean_entropy": 2.9901652336120605
+      },
+      {
+        "seed": 421003,
+        "correct": false,
+        "answer": "4868",
+        "T": 9,
+        "confidence": 0.015823321416974068,
+        "mean_entropy": 3.5448853969573975
+      },
+      {
+        "seed": 421004,
+        "correct": false,
+        "answer": "650",
+        "T": 22,
+        "confidence": 0.0004106562410015613,
+        "mean_entropy": 3.0726561546325684
+      },
+      {
+        "seed": 421005,
+        "correct": false,
+        "answer": "800432",
+        "T": 7,
+        "confidence": 0.1979278028011322,
+        "mean_entropy": 3.3915534019470215
+      },
+      {
+        "seed": 421006,
+        "correct": false,
+        "answer": "240",
+        "T": 3,
+        "confidence": 0.32739436626434326,
+        "mean_entropy": 2.3139564990997314
+      },
+      {
+        "seed": 421007,
+        "correct": false,
+        "answer": "1,619",
+        "T": 11,
+        "confidence": 0.010927124880254269,
+        "mean_entropy": 3.330228328704834
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "366",
+      "T": 9,
+      "confidence": 0.8705710768699646
+    }
+  },
+  {
+    "idx": 11,
+    "gt_answer": "694",
+    "rollouts": [
+      {
+        "seed": 421100,
+        "correct": false,
+        "answer": "79700",
+        "T": 12,
+        "confidence": 0.007703013718128204,
+        "mean_entropy": 4.084008693695068
+      },
+      {
+        "seed": 421101,
+        "correct": false,
+        "answer": "83,100",
+        "T": 8,
+        "confidence": 0.0784202441573143,
+        "mean_entropy": 3.424921751022339
+      },
+      {
+        "seed": 421102,
+        "correct": false,
+        "answer": "29310",
+        "T": 23,
+        "confidence": 0.0008327068644575775,
+        "mean_entropy": 3.476137638092041
+      },
+      {
+        "seed": 421103,
+        "correct": false,
+        "answer": "99580",
+        "T": 12,
+        "confidence": 0.014224543236196041,
+        "mean_entropy": 3.439176559448242
+      },
+      {
+        "seed": 421104,
+        "correct": false,
+        "answer": "1238",
+        "T": 18,
+        "confidence": 0.0065525672398507595,
+        "mean_entropy": 3.4206643104553223
+      },
+      {
+        "seed": 421105,
+        "correct": false,
+        "answer": "1026",
+        "T": 4,
+        "confidence": 0.03898271918296814,
+        "mean_entropy": 1.9925042390823364
+      },
+      {
+        "seed": 421106,
+        "correct": false,
+        "answer": "178.00",
+        "T": 6,
+        "confidence": 0.03513072431087494,
+        "mean_entropy": 3.725078821182251
+      },
+      {
+        "seed": 421107,
+        "correct": false,
+        "answer": "77040",
+        "T": 11,
+        "confidence": 0.06753772497177124,
+        "mean_entropy": 3.8828086853027344
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "714",
+      "T": 9,
+      "confidence": 0.01614588126540184
+    }
+  },
+  {
+    "idx": 12,
+    "gt_answer": "13",
+    "rollouts": [
+      {
+        "seed": 421200,
+        "correct": false,
+        "answer": "47",
+        "T": 9,
+        "confidence": 0.01556349266320467,
+        "mean_entropy": 3.448497772216797
+      },
+      {
+        "seed": 421201,
+        "correct": false,
+        "answer": "3",
+        "T": 14,
+        "confidence": 0.0061023179441690445,
+        "mean_entropy": 2.9863669872283936
+      },
+      {
+        "seed": 421202,
+        "correct": false,
+        "answer": "25",
+        "T": 16,
+        "confidence": 0.0023847792763262987,
+        "mean_entropy": 3.5975067615509033
+      },
+      {
+        "seed": 421203,
+        "correct": false,
+        "answer": "1254",
+        "T": 11,
+        "confidence": 0.02147468365728855,
+        "mean_entropy": 3.0612142086029053
+      },
+      {
+        "seed": 421204,
+        "correct": false,
+        "answer": "6",
+        "T": 6,
+        "confidence": 0.07753462344408035,
+        "mean_entropy": 2.7139785289764404
+      },
+      {
+        "seed": 421205,
+        "correct": false,
+        "answer": "865",
+        "T": 7,
+        "confidence": 0.014761276543140411,
+        "mean_entropy": 3.2334704399108887
+      },
+      {
+        "seed": 421206,
+        "correct": false,
+        "answer": "10",
+        "T": 9,
+        "confidence": 0.02844717539846897,
+        "mean_entropy": 2.728092670440674
+      },
+      {
+        "seed": 421207,
+        "correct": false,
+        "answer": "23",
+        "T": 11,
+        "confidence": 0.011568460613489151,
+        "mean_entropy": 2.843416452407837
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "15",
+      "T": 10,
+      "confidence": 0.023974835872650146
+    }
+  },
+  {
+    "idx": 13,
+    "gt_answer": "18",
+    "rollouts": [
+      {
+        "seed": 421300,
+        "correct": false,
+        "answer": "110",
+        "T": 3,
+        "confidence": 0.10584504902362823,
+        "mean_entropy": 1.4802943468093872
+      },
+      {
+        "seed": 421301,
+        "correct": false,
+        "answer": "435",
+        "T": 8,
+        "confidence": 0.01569235511124134,
+        "mean_entropy": 2.909013271331787
+      },
+      {
+        "seed": 421302,
+        "correct": false,
+        "answer": "136",
+        "T": 7,
+        "confidence": 0.11346281319856644,
+        "mean_entropy": 3.598292112350464
+      },
+      {
+        "seed": 421303,
+        "correct": false,
+        "answer": "184",
+        "T": 3,
+        "confidence": 0.06202089041471481,
+        "mean_entropy": 2.989373207092285
+      },
+      {
+        "seed": 421304,
+        "correct": true,
+        "answer": "18",
+        "T": 6,
+        "confidence": 0.05397665500640869,
+        "mean_entropy": 3.7232367992401123
+      },
+      {
+        "seed": 421305,
+        "correct": false,
+        "answer": "60",
+        "T": 8,
+        "confidence": 0.017608802765607834,
+        "mean_entropy": 2.7471508979797363
+      },
+      {
+        "seed": 421306,
+        "correct": false,
+        "answer": "26",
+        "T": 9,
+        "confidence": 0.020043736323714256,
+        "mean_entropy": 2.5551016330718994
+      },
+      {
+        "seed": 421307,
+        "correct": false,
+        "answer": "138",
+        "T": 3,
+        "confidence": 0.09580767154693604,
+        "mean_entropy": 2.197251558303833
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "72",
+      "T": 8,
+      "confidence": 0.042607296258211136
+    }
+  },
+  {
+    "idx": 14,
+    "gt_answer": "60",
+    "rollouts": [
+      {
+        "seed": 421400,
+        "correct": false,
+        "answer": "112.3",
+        "T": 6,
+        "confidence": 0.04109984636306763,
+        "mean_entropy": 2.6037778854370117
+      },
+      {
+        "seed": 421401,
+        "correct": false,
+        "answer": "7.04",
+        "T": 11,
+        "confidence": 0.025726063176989555,
+        "mean_entropy": 2.9633307456970215
+      },
+      {
+        "seed": 421402,
+        "correct": false,
+        "answer": "5",
+        "T": 5,
+        "confidence": 0.09447884559631348,
+        "mean_entropy": 2.151158571243286
+      },
+      {
+        "seed": 421403,
+        "correct": false,
+        "answer": "87.5",
+        "T": 11,
+        "confidence": 0.43411633372306824,
+        "mean_entropy": 3.279412031173706
+      },
+      {
+        "seed": 421404,
+        "correct": false,
+        "answer": "42",
+        "T": 8,
+        "confidence": 0.8360459804534912,
+        "mean_entropy": 3.0379960536956787
+      },
+      {
+        "seed": 421405,
+        "correct": false,
+        "answer": "-31.25",
+        "T": 17,
+        "confidence": 0.002465291414409876,
+        "mean_entropy": 3.4344844818115234
+      },
+      {
+        "seed": 421406,
+        "correct": false,
+        "answer": "41044",
+        "T": 9,
+        "confidence": 0.02023160457611084,
+        "mean_entropy": 3.163644790649414
+      },
+      {
+        "seed": 421407,
+        "correct": false,
+        "answer": "14,77",
+        "T": 10,
+        "confidence": 0.06912658363580704,
+        "mean_entropy": 3.1429553031921387
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "60",
+      "T": 12,
+      "confidence": 0.5462964773178101
+    }
+  },
+  {
+    "idx": 15,
+    "gt_answer": "125",
+    "rollouts": [
+      {
+        "seed": 421500,
+        "correct": false,
+        "answer": "1930.",
+        "T": 17,
+        "confidence": 0.00183777732308954,
+        "mean_entropy": 3.2093000411987305
+      },
+      {
+        "seed": 421501,
+        "correct": false,
+        "answer": "52.87",
+        "T": 11,
+        "confidence": 0.008235006593167782,
+        "mean_entropy": 2.8864049911499023
+      },
+      {
+        "seed": 421502,
+        "correct": false,
+        "answer": "4,557",
+        "T": 7,
+        "confidence": 0.03688795119524002,
+        "mean_entropy": 2.696586847305298
+      },
+      {
+        "seed": 421503,
+        "correct": false,
+        "answer": "21000",
+        "T": 11,
+        "confidence": 0.026599368080496788,
+        "mean_entropy": 3.2172486782073975
+      },
+      {
+        "seed": 421504,
+        "correct": false,
+        "answer": "366869",
+        "T": 23,
+        "confidence": 0.0016948370030149817,
+        "mean_entropy": 3.463848829269409
+      },
+      {
+        "seed": 421505,
+        "correct": false,
+        "answer": "92.16",
+        "T": 12,
+        "confidence": 0.018368834629654884,
+        "mean_entropy": 2.768622636795044
+      },
+      {
+        "seed": 421506,
+        "correct": false,
+        "answer": "90106",
+        "T": 8,
+        "confidence": 0.02487253211438656,
+        "mean_entropy": 3.195814609527588
+      },
+      {
+        "seed": 421507,
+        "correct": false,
+        "answer": "123621.23",
+        "T": 12,
+        "confidence": 0.005640731658786535,
+        "mean_entropy": 3.477910280227661
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "330",
+      "T": 12,
+      "confidence": 0.02342357486486435
+    }
+  },
+  {
+    "idx": 16,
+    "gt_answer": "230",
+    "rollouts": [
+      {
+        "seed": 421600,
+        "correct": false,
+        "answer": "153",
+        "T": 4,
+        "confidence": 0.04748716205358505,
+        "mean_entropy": 3.260167121887207
+      },
+      {
+        "seed": 421601,
+        "correct": false,
+        "answer": "1600",
+        "T": 5,
+        "confidence": 0.04059667885303497,
+        "mean_entropy": 3.0939807891845703
+      },
+      {
+        "seed": 421602,
+        "correct": false,
+        "answer": "5",
+        "T": 5,
+        "confidence": 0.06617690622806549,
+        "mean_entropy": 2.3352065086364746
+      },
+      {
+        "seed": 421603,
+        "correct": false,
+        "answer": "158280",
+        "T": 11,
+        "confidence": 0.011062213219702244,
+        "mean_entropy": 3.943676233291626
+      },
+      {
+        "seed": 421604,
+        "correct": false,
+        "answer": "98",
+        "T": 5,
+        "confidence": 0.042599767446517944,
+        "mean_entropy": 3.1282424926757812
+      },
+      {
+        "seed": 421605,
+        "correct": false,
+        "answer": "72589",
+        "T": 10,
+        "confidence": 0.027100451290607452,
+        "mean_entropy": 3.5830154418945312
+      },
+      {
+        "seed": 421606,
+        "correct": false,
+        "answer": "100103",
+        "T": 5,
+        "confidence": 0.04476494342088699,
+        "mean_entropy": 3.483431339263916
+      },
+      {
+        "seed": 421607,
+        "correct": false,
+        "answer": "260",
+        "T": 3,
+        "confidence": 0.06710588186979294,
+        "mean_entropy": 4.4980316162109375
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "150",
+      "T": 5,
+      "confidence": 0.02394271455705166
+    }
+  },
+  {
+    "idx": 17,
+    "gt_answer": "57500",
+    "rollouts": [
+      {
+        "seed": 421700,
+        "correct": false,
+        "answer": "1896",
+        "T": 6,
+        "confidence": 0.019848909229040146,
+        "mean_entropy": 3.235327959060669
+      },
+      {
+        "seed": 421701,
+        "correct": false,
+        "answer": "17647005",
+        "T": 14,
+        "confidence": 0.00419334601610899,
+        "mean_entropy": 4.249294281005859
+      },
+      {
+        "seed": 421702,
+        "correct": false,
+        "answer": "69200",
+        "T": 6,
+        "confidence": 0.03256300836801529,
+        "mean_entropy": 2.6413700580596924
+      },
+      {
+        "seed": 421703,
+        "correct": false,
+        "answer": "208200",
+        "T": 11,
+        "confidence": 0.04701090231537819,
+        "mean_entropy": 3.3773603439331055
+      },
+      {
+        "seed": 421704,
+        "correct": false,
+        "answer": "47575",
+        "T": 10,
+        "confidence": 0.009917068295180798,
+        "mean_entropy": 3.625941753387451
+      },
+      {
+        "seed": 421705,
+        "correct": false,
+        "answer": "805030",
+        "T": 7,
+        "confidence": 0.05838767811655998,
+        "mean_entropy": 3.3531219959259033
+      },
+      {
+        "seed": 421706,
+        "correct": false,
+        "answer": "22050000",
+        "T": 16,
+        "confidence": 0.008948571979999542,
+        "mean_entropy": 4.313107967376709
+      },
+      {
+        "seed": 421707,
+        "correct": false,
+        "answer": "19520",
+        "T": 4,
+        "confidence": 0.05307023227214813,
+        "mean_entropy": 3.5737690925598145
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "52500",
+      "T": 9,
+      "confidence": 0.03272302448749542
+    }
+  },
+  {
+    "idx": 18,
+    "gt_answer": "7",
+    "rollouts": [
+      {
+        "seed": 421800,
+        "correct": false,
+        "answer": "253 Bridges0",
+        "T": 27,
+        "confidence": 0.00044860714115202427,
+        "mean_entropy": 3.5462703704833984
+      },
+      {
+        "seed": 421801,
+        "correct": false,
+        "answer": "12.5",
+        "T": 12,
+        "confidence": 0.009462525136768818,
+        "mean_entropy": 3.2272703647613525
+      },
+      {
+        "seed": 421802,
+        "correct": false,
+        "answer": "2.344",
+        "T": 6,
+        "confidence": 0.03581498563289642,
+        "mean_entropy": 3.232379674911499
+      },
+      {
+        "seed": 421803,
+        "correct": false,
+        "answer": "1805000",
+        "T": 19,
+        "confidence": 0.0018058092100545764,
+        "mean_entropy": 3.937807083129883
+      },
+      {
+        "seed": 421804,
+        "correct": false,
+        "answer": "arend s\u00e0ng",
+        "T": 10,
+        "confidence": 0.03235479071736336,
+        "mean_entropy": 3.52647066116333
+      },
+      {
+        "seed": 421805,
+        "correct": false,
+        "answer": "6",
+        "T": 5,
+        "confidence": 0.03993958234786987,
+        "mean_entropy": 2.981545925140381
+      },
+      {
+        "seed": 421806,
+        "correct": false,
+        "answer": "45,001",
+        "T": 21,
+        "confidence": 0.0029027338605374098,
+        "mean_entropy": 3.8977792263031006
+      },
+      {
+        "seed": 421807,
+        "correct": false,
+        "answer": "40",
+        "T": 8,
+        "confidence": 0.8830552697181702,
+        "mean_entropy": 2.632242202758789
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "7",
+      "T": 7,
+      "confidence": 0.9876120686531067
+    }
+  },
+  {
+    "idx": 19,
+    "gt_answer": "6",
+    "rollouts": [
+      {
+        "seed": 421900,
+        "correct": false,
+        "answer": "9.46",
+        "T": 12,
+        "confidence": 0.011218776926398277,
+        "mean_entropy": 2.711986541748047
+      },
+      {
+        "seed": 421901,
+        "correct": false,
+        "answer": "10.63",
+        "T": 13,
+        "confidence": 0.008573045954108238,
+        "mean_entropy": 3.094088554382324
+      },
+      {
+        "seed": 421902,
+        "correct": false,
+        "answer": "85",
+        "T": 9,
+        "confidence": 0.13221034407615662,
+        "mean_entropy": 2.9087486267089844
+      },
+      {
+        "seed": 421903,
+        "correct": false,
+        "answer": "21",
+        "T": 23,
+        "confidence": 0.0014359677443280816,
+        "mean_entropy": 3.156672954559326
+      },
+      {
+        "seed": 421904,
+        "correct": false,
+        "answer": "4",
+        "T": 7,
+        "confidence": 0.05333610624074936,
+        "mean_entropy": 1.8299511671066284
+      },
+      {
+        "seed": 421905,
+        "correct": false,
+        "answer": "30",
+        "T": 9,
+        "confidence": 0.11752738058567047,
+        "mean_entropy": 2.308549165725708
+      },
+      {
+        "seed": 421906,
+        "correct": false,
+        "answer": "39",
+        "T": 16,
+        "confidence": 0.0032529844902455807,
+        "mean_entropy": 3.3012983798980713
+      },
+      {
+        "seed": 421907,
+        "correct": false,
+        "answer": "20200",
+        "T": 9,
+        "confidence": 0.050956472754478455,
+        "mean_entropy": 2.953723430633545
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "2",
+      "T": 8,
+      "confidence": 0.0664450004696846
+    }
+  },
+  {
+    "idx": 20,
+    "gt_answer": "15",
+    "rollouts": [
+      {
+        "seed": 422000,
+        "correct": false,
+        "answer": "-330",
+        "T": 15,
+        "confidence": 0.002836485393345356,
+        "mean_entropy": 2.903400182723999
+      },
+      {
+        "seed": 422001,
+        "correct": false,
+        "answer": "8",
+        "T": 15,
+        "confidence": 0.0022212574258446693,
+        "mean_entropy": 2.837407350540161
+      },
+      {
+        "seed": 422002,
+        "correct": false,
+        "answer": "10",
+        "T": 7,
+        "confidence": 0.10507118701934814,
+        "mean_entropy": 3.08278489112854
+      },
+      {
+        "seed": 422003,
+        "correct": false,
+        "answer": "20",
+        "T": 10,
+        "confidence": 0.007026043254882097,
+        "mean_entropy": 3.1414637565612793
+      },
+      {
+        "seed": 422004,
+        "correct": false,
+        "answer": "130",
+        "T": 9,
+        "confidence": 0.0514690987765789,
+        "mean_entropy": 2.8260080814361572
+      },
+      {
+        "seed": 422005,
+        "correct": false,
+        "answer": "150",
+        "T": 11,
+        "confidence": 0.006549231708049774,
+        "mean_entropy": 2.4469175338745117
+      },
+      {
+        "seed": 422006,
+        "correct": false,
+        "answer": "831060",
+        "T": 19,
+        "confidence": 0.0025259072426706553,
+        "mean_entropy": 3.5515730381011963
+      },
+      {
+        "seed": 422007,
+        "correct": false,
+        "answer": "8,429",
+        "T": 17,
+        "confidence": 0.00694871274754405,
+        "mean_entropy": 3.6599364280700684
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "8",
+      "T": 9,
+      "confidence": 0.01587880402803421
+    }
+  },
+  {
+    "idx": 21,
+    "gt_answer": "14",
+    "rollouts": [
+      {
+        "seed": 422100,
+        "correct": false,
+        "answer": "900",
+        "T": 5,
+        "confidence": 0.11558051407337189,
+        "mean_entropy": 1.5969314575195312
+      },
+      {
+        "seed": 422101,
+        "correct": false,
+        "answer": "2",
+        "T": 5,
+        "confidence": 0.07495299726724625,
+        "mean_entropy": 2.622037410736084
+      },
+      {
+        "seed": 422102,
+        "correct": false,
+        "answer": "7",
+        "T": 5,
+        "confidence": 0.0744050145149231,
+        "mean_entropy": 2.7174344062805176
+      },
+      {
+        "seed": 422103,
+        "correct": false,
+        "answer": "15",
+        "T": 4,
+        "confidence": 0.08964309841394424,
+        "mean_entropy": 1.4893553256988525
+      },
+      {
+        "seed": 422104,
+        "correct": false,
+        "answer": "85",
+        "T": 6,
+        "confidence": 0.015421813353896141,
+        "mean_entropy": 2.717125177383423
+      },
+      {
+        "seed": 422105,
+        "correct": false,
+        "answer": "180",
+        "T": 4,
+        "confidence": 0.1426299810409546,
+        "mean_entropy": 1.4680442810058594
+      },
+      {
+        "seed": 422106,
+        "correct": false,
+        "answer": "9",
+        "T": 6,
+        "confidence": 0.08154839277267456,
+        "mean_entropy": 1.9915088415145874
+      },
+      {
+        "seed": 422107,
+        "correct": false,
+        "answer": "21.31",
+        "T": 7,
+        "confidence": 0.05015353113412857,
+        "mean_entropy": 3.735822916030884
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "9",
+      "T": 5,
+      "confidence": 0.6462210416793823
+    }
+  },
+  {
+    "idx": 22,
+    "gt_answer": "7",
+    "rollouts": [
+      {
+        "seed": 422200,
+        "correct": false,
+        "answer": "8",
+        "T": 8,
+        "confidence": 0.08289783447980881,
+        "mean_entropy": 2.63381028175354
+      },
+      {
+        "seed": 422201,
+        "correct": false,
+        "answer": "0",
+        "T": 10,
+        "confidence": 0.011757280677556992,
+        "mean_entropy": 2.4815502166748047
+      },
+      {
+        "seed": 422202,
+        "correct": false,
+        "answer": "514",
+        "T": 8,
+        "confidence": 0.028771432116627693,
+        "mean_entropy": 3.601088523864746
+      },
+      {
+        "seed": 422203,
+        "correct": false,
+        "answer": "3",
+        "T": 9,
+        "confidence": 0.023616446182131767,
+        "mean_entropy": 2.282374620437622
+      },
+      {
+        "seed": 422204,
+        "correct": false,
+        "answer": "24",
+        "T": 5,
+        "confidence": 0.17282938957214355,
+        "mean_entropy": 1.9181429147720337
+      },
+      {
+        "seed": 422205,
+        "correct": false,
+        "answer": "3,060",
+        "T": 21,
+        "confidence": 0.002003105590119958,
+        "mean_entropy": 2.735133171081543
+      },
+      {
+        "seed": 422206,
+        "correct": false,
+        "answer": "63,036",
+        "T": 16,
+        "confidence": 0.001303359167650342,
+        "mean_entropy": 3.2413570880889893
+      },
+      {
+        "seed": 422207,
+        "correct": false,
+        "answer": "22",
+        "T": 5,
+        "confidence": 0.2003202587366104,
+        "mean_entropy": 2.690965175628662
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "7",
+      "T": 7,
+      "confidence": 0.9382842183113098
+    }
+  },
+  {
+    "idx": 23,
+    "gt_answer": "8",
+    "rollouts": [
+      {
+        "seed": 422300,
+        "correct": true,
+        "answer": "8",
+        "T": 5,
+        "confidence": 0.20054689049720764,
+        "mean_entropy": 2.2766995429992676
+      },
+      {
+        "seed": 422301,
+        "correct": false,
+        "answer": "4",
+        "T": 5,
+        "confidence": 0.06721042096614838,
+        "mean_entropy": 2.8684847354888916
+      },
+      {
+        "seed": 422302,
+        "correct": false,
+        "answer": "130",
+        "T": 3,
+        "confidence": 0.22576603293418884,
+        "mean_entropy": 0.9663456082344055
+      },
+      {
+        "seed": 422303,
+        "correct": false,
+        "answer": "~40",
+        "T": 8,
+        "confidence": 0.01741790398955345,
+        "mean_entropy": 2.714686632156372
+      },
+      {
+        "seed": 422304,
+        "correct": false,
+        "answer": "102333",
+        "T": 7,
+        "confidence": 0.038602735847234726,
+        "mean_entropy": 3.4838902950286865
+      },
+      {
+        "seed": 422305,
+        "correct": false,
+        "answer": "133",
+        "T": 3,
+        "confidence": 0.07013968378305435,
+        "mean_entropy": 2.437624454498291
+      },
+      {
+        "seed": 422306,
+        "correct": false,
+        "answer": "934",
+        "T": 10,
+        "confidence": 0.007399755995720625,
+        "mean_entropy": 3.9065051078796387
+      },
+      {
+        "seed": 422307,
+        "correct": true,
+        "answer": "8",
+        "T": 3,
+        "confidence": 0.14701557159423828,
+        "mean_entropy": 2.0814859867095947
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "10",
+      "T": 3,
+      "confidence": 0.4549787938594818
+    }
+  },
+  {
+    "idx": 24,
+    "gt_answer": "26",
+    "rollouts": [
+      {
+        "seed": 422400,
+        "correct": false,
+        "answer": "162",
+        "T": 4,
+        "confidence": 0.0742371678352356,
+        "mean_entropy": 2.1759119033813477
+      },
+      {
+        "seed": 422401,
+        "correct": false,
+        "answer": "1.90",
+        "T": 6,
+        "confidence": 0.04164764657616615,
+        "mean_entropy": 2.8084871768951416
+      },
+      {
+        "seed": 422402,
+        "correct": false,
+        "answer": "166 energy",
+        "T": 6,
+        "confidence": 0.03607356920838356,
+        "mean_entropy": 2.7667646408081055
+      },
+      {
+        "seed": 422403,
+        "correct": false,
+        "answer": "",
+        "T": 4,
+        "confidence": 0.383642315864563,
+        "mean_entropy": 1.9900606870651245
+      },
+      {
+        "seed": 422404,
+        "correct": false,
+        "answer": "25.44",
+        "T": 5,
+        "confidence": 0.046235211193561554,
+        "mean_entropy": 3.5768303871154785
+      },
+      {
+        "seed": 422405,
+        "correct": false,
+        "answer": "25.580",
+        "T": 6,
+        "confidence": 0.03700895607471466,
+        "mean_entropy": 3.491713762283325
+      },
+      {
+        "seed": 422406,
+        "correct": false,
+        "answer": "19016",
+        "T": 4,
+        "confidence": 0.05881234630942345,
+        "mean_entropy": 2.8377530574798584
+      },
+      {
+        "seed": 422407,
+        "correct": false,
+        "answer": "20",
+        "T": 4,
+        "confidence": 0.5713369846343994,
+        "mean_entropy": 2.0670366287231445
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "26.67",
+      "T": 5,
+      "confidence": 0.06725754588842392
+    }
+  },
+  {
+    "idx": 25,
+    "gt_answer": "2",
+    "rollouts": [
+      {
+        "seed": 422500,
+        "correct": false,
+        "answer": "6",
+        "T": 22,
+        "confidence": 0.003645443357527256,
+        "mean_entropy": 3.5995614528656006
+      },
+      {
+        "seed": 422501,
+        "correct": false,
+        "answer": "100",
+        "T": 26,
+        "confidence": 0.0007340228767134249,
+        "mean_entropy": 2.9173684120178223
+      },
+      {
+        "seed": 422502,
+        "correct": false,
+        "answer": "16",
+        "T": 10,
+        "confidence": 0.030162086710333824,
+        "mean_entropy": 2.911999225616455
+      },
+      {
+        "seed": 422503,
+        "correct": false,
+        "answer": "244",
+        "T": 14,
+        "confidence": 0.005666019860655069,
+        "mean_entropy": 3.462930202484131
+      },
+      {
+        "seed": 422504,
+        "correct": false,
+        "answer": "10",
+        "T": 18,
+        "confidence": 0.005457415711134672,
+        "mean_entropy": 3.2855939865112305
+      },
+      {
+        "seed": 422505,
+        "correct": false,
+        "answer": "79",
+        "T": 9,
+        "confidence": 0.05692730471491814,
+        "mean_entropy": 2.978113889694214
+      },
+      {
+        "seed": 422506,
+        "correct": false,
+        "answer": "92",
+        "T": 7,
+        "confidence": 0.06468365341424942,
+        "mean_entropy": 2.1841843128204346
+      },
+      {
+        "seed": 422507,
+        "correct": false,
+        "answer": "",
+        "T": 5,
+        "confidence": 0.5299501419067383,
+        "mean_entropy": 2.7168288230895996
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "3",
+      "T": 11,
+      "confidence": 0.09751315414905548
+    }
+  },
+  {
+    "idx": 26,
+    "gt_answer": "243",
+    "rollouts": [
+      {
+        "seed": 422600,
+        "correct": false,
+        "answer": "1470.25",
+        "T": 11,
+        "confidence": 0.025876367464661598,
+        "mean_entropy": 3.510439872741699
+      },
+      {
+        "seed": 422601,
+        "correct": false,
+        "answer": "247.47",
+        "T": 10,
+        "confidence": 0.041650332510471344,
+        "mean_entropy": 2.794175386428833
+      },
+      {
+        "seed": 422602,
+        "correct": false,
+        "answer": "2.82",
+        "T": 19,
+        "confidence": 0.0010437185410410166,
+        "mean_entropy": 2.8062164783477783
+      },
+      {
+        "seed": 422603,
+        "correct": false,
+        "answer": "31.97",
+        "T": 10,
+        "confidence": 0.1797158420085907,
+        "mean_entropy": 3.4760661125183105
+      },
+      {
+        "seed": 422604,
+        "correct": false,
+        "answer": "1,7650",
+        "T": 12,
+        "confidence": 0.02357005886733532,
+        "mean_entropy": 3.81719970703125
+      },
+      {
+        "seed": 422605,
+        "correct": false,
+        "answer": "1,46",
+        "T": 10,
+        "confidence": 0.011331165209412575,
+        "mean_entropy": 3.3592231273651123
+      },
+      {
+        "seed": 422606,
+        "correct": false,
+        "answer": "80.97",
+        "T": 12,
+        "confidence": 0.015518277883529663,
+        "mean_entropy": 2.7281033992767334
+      },
+      {
+        "seed": 422607,
+        "correct": false,
+        "answer": "350.1",
+        "T": 10,
+        "confidence": 0.017812088131904602,
+        "mean_entropy": 2.773441791534424
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "254.5",
+      "T": 12,
+      "confidence": 0.00687935808673501
+    }
+  },
+  {
+    "idx": 27,
+    "gt_answer": "16",
+    "rollouts": [
+      {
+        "seed": 422700,
+        "correct": false,
+        "answer": "14",
+        "T": 5,
+        "confidence": 0.0925830826163292,
+        "mean_entropy": 2.136024236679077
+      },
+      {
+        "seed": 422701,
+        "correct": false,
+        "answer": "4",
+        "T": 7,
+        "confidence": 0.024860026314854622,
+        "mean_entropy": 2.7805440425872803
+      },
+      {
+        "seed": 422702,
+        "correct": false,
+        "answer": "616",
+        "T": 7,
+        "confidence": 0.09507953375577927,
+        "mean_entropy": 3.4397525787353516
+      },
+      {
+        "seed": 422703,
+        "correct": false,
+        "answer": "18",
+        "T": 6,
+        "confidence": 0.04060690477490425,
+        "mean_entropy": 2.741361618041992
+      },
+      {
+        "seed": 422704,
+        "correct": false,
+        "answer": "66",
+        "T": 6,
+        "confidence": 0.04671495780348778,
+        "mean_entropy": 2.8102076053619385
+      },
+      {
+        "seed": 422705,
+        "correct": true,
+        "answer": "16",
+        "T": 5,
+        "confidence": 0.6095396876335144,
+        "mean_entropy": 2.293276071548462
+      },
+      {
+        "seed": 422706,
+        "correct": false,
+        "answer": "8.16",
+        "T": 4,
+        "confidence": 0.10969599336385727,
+        "mean_entropy": 2.072561502456665
+      },
+      {
+        "seed": 422707,
+        "correct": false,
+        "answer": "24",
+        "T": 3,
+        "confidence": 0.5506225824356079,
+        "mean_entropy": 2.5303990840911865
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "16",
+      "T": 7,
+      "confidence": 0.9811397194862366
+    }
+  },
+  {
+    "idx": 28,
+    "gt_answer": "25",
+    "rollouts": [
+      {
+        "seed": 422800,
+        "correct": false,
+        "answer": "210",
+        "T": 3,
+        "confidence": 0.19665540754795074,
+        "mean_entropy": 3.558730125427246
+      },
+      {
+        "seed": 422801,
+        "correct": false,
+        "answer": "3.3",
+        "T": 11,
+        "confidence": 0.009910043329000473,
+        "mean_entropy": 2.953378915786743
+      },
+      {
+        "seed": 422802,
+        "correct": false,
+        "answer": "973.23",
+        "T": 12,
+        "confidence": 0.009052598848938942,
+        "mean_entropy": 3.4122674465179443
+      },
+      {
+        "seed": 422803,
+        "correct": false,
+        "answer": "60",
+        "T": 5,
+        "confidence": 0.45305153727531433,
+        "mean_entropy": 3.0233254432678223
+      },
+      {
+        "seed": 422804,
+        "correct": false,
+        "answer": "30",
+        "T": 2,
+        "confidence": 0.8848929405212402,
+        "mean_entropy": 0.1390170156955719
+      },
+      {
+        "seed": 422805,
+        "correct": false,
+        "answer": "70",
+        "T": 2,
+        "confidence": 0.6450237035751343,
+        "mean_entropy": 1.9539469480514526
+      },
+      {
+        "seed": 422806,
+        "correct": false,
+        "answer": "8.3",
+        "T": 8,
+        "confidence": 0.01262547168880701,
+        "mean_entropy": 2.5883517265319824
+      },
+      {
+        "seed": 422807,
+        "correct": false,
+        "answer": "52",
+        "T": 4,
+        "confidence": 0.28093665838241577,
+        "mean_entropy": 3.3007192611694336
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "25",
+      "T": 5,
+      "confidence": 0.9232893586158752
+    }
+  },
+  {
+    "idx": 29,
+    "gt_answer": "104",
+    "rollouts": [
+      {
+        "seed": 422900,
+        "correct": false,
+        "answer": "1938675.00",
+        "T": 12,
+        "confidence": 0.0062485625967383385,
+        "mean_entropy": 3.5833256244659424
+      },
+      {
+        "seed": 422901,
+        "correct": false,
+        "answer": "356",
+        "T": 5,
+        "confidence": 0.05109880119562149,
+        "mean_entropy": 2.807521104812622
+      },
+      {
+        "seed": 422902,
+        "correct": false,
+        "answer": "423521",
+        "T": 13,
+        "confidence": 0.0027534908149391413,
+        "mean_entropy": 3.4386820793151855
+      },
+      {
+        "seed": 422903,
+        "correct": false,
+        "answer": "651",
+        "T": 6,
+        "confidence": 0.48882856965065,
+        "mean_entropy": 2.7187187671661377
+      },
+      {
+        "seed": 422904,
+        "correct": false,
+        "answer": "22",
+        "T": 5,
+        "confidence": 0.027858015149831772,
+        "mean_entropy": 2.1458184719085693
+      },
+      {
+        "seed": 422905,
+        "correct": false,
+        "answer": "29424",
+        "T": 10,
+        "confidence": 0.010363270528614521,
+        "mean_entropy": 3.713373899459839
+      },
+      {
+        "seed": 422906,
+        "correct": false,
+        "answer": "42",
+        "T": 3,
+        "confidence": 0.045570697635412216,
+        "mean_entropy": 2.067906379699707
+      },
+      {
+        "seed": 422907,
+        "correct": false,
+        "answer": "44452",
+        "T": 5,
+        "confidence": 0.02525530755519867,
+        "mean_entropy": 2.9111227989196777
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "71",
+      "T": 5,
+      "confidence": 0.03209804743528366
+    }
+  },
+  {
+    "idx": 30,
+    "gt_answer": "109",
+    "rollouts": [
+      {
+        "seed": 423000,
+        "correct": false,
+        "answer": "2008",
+        "T": 10,
+        "confidence": 0.02118118666112423,
+        "mean_entropy": 3.4489359855651855
+      },
+      {
+        "seed": 423001,
+        "correct": false,
+        "answer": "131",
+        "T": 6,
+        "confidence": 0.08774850517511368,
+        "mean_entropy": 2.722487211227417
+      },
+      {
+        "seed": 423002,
+        "correct": false,
+        "answer": "40",
+        "T": 3,
+        "confidence": 0.2808035612106323,
+        "mean_entropy": 1.8113250732421875
+      },
+      {
+        "seed": 423003,
+        "correct": false,
+        "answer": "410",
+        "T": 3,
+        "confidence": 0.04629437252879143,
+        "mean_entropy": 1.9690533876419067
+      },
+      {
+        "seed": 423004,
+        "correct": false,
+        "answer": "23,944",
+        "T": 11,
+        "confidence": 0.006677680648863316,
+        "mean_entropy": 2.8240318298339844
+      },
+      {
+        "seed": 423005,
+        "correct": false,
+        "answer": "38",
+        "T": 9,
+        "confidence": 0.011815263889729977,
+        "mean_entropy": 3.135322093963623
+      },
+      {
+        "seed": 423006,
+        "correct": false,
+        "answer": "10",
+        "T": 2,
+        "confidence": 0.3203514814376831,
+        "mean_entropy": 0.7653454542160034
+      },
+      {
+        "seed": 423007,
+        "correct": false,
+        "answer": "39",
+        "T": 9,
+        "confidence": 0.018028246238827705,
+        "mean_entropy": 3.184117078781128
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "100",
+      "T": 7,
+      "confidence": 0.061070140451192856
+    }
+  },
+  {
+    "idx": 31,
+    "gt_answer": "80",
+    "rollouts": [
+      {
+        "seed": 423100,
+        "correct": false,
+        "answer": "18285",
+        "T": 23,
+        "confidence": 0.0006480307201854885,
+        "mean_entropy": 3.3210158348083496
+      },
+      {
+        "seed": 423101,
+        "correct": false,
+        "answer": "508.29",
+        "T": 19,
+        "confidence": 0.0007049922714941204,
+        "mean_entropy": 3.3018436431884766
+      },
+      {
+        "seed": 423102,
+        "correct": false,
+        "answer": "28614.57",
+        "T": 20,
+        "confidence": 0.0060581364668905735,
+        "mean_entropy": 3.7980618476867676
+      },
+      {
+        "seed": 423103,
+        "correct": false,
+        "answer": "363.82",
+        "T": 10,
+        "confidence": 0.014089495874941349,
+        "mean_entropy": 4.030862331390381
+      },
+      {
+        "seed": 423104,
+        "correct": false,
+        "answer": "23094",
+        "T": 17,
+        "confidence": 0.005567432381212711,
+        "mean_entropy": 4.023372173309326
+      },
+      {
+        "seed": 423105,
+        "correct": false,
+        "answer": "135",
+        "T": 11,
+        "confidence": 0.06010070815682411,
+        "mean_entropy": 3.4424707889556885
+      },
+      {
+        "seed": 423106,
+        "correct": false,
+        "answer": "965",
+        "T": 6,
+        "confidence": 0.03164700046181679,
+        "mean_entropy": 3.14047908782959
+      },
+      {
+        "seed": 423107,
+        "correct": false,
+        "answer": "173",
+        "T": 16,
+        "confidence": 0.017817193642258644,
+        "mean_entropy": 2.624441623687744
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "120",
+      "T": 15,
+      "confidence": 0.5289930701255798
+    }
+  },
+  {
+    "idx": 32,
+    "gt_answer": "35",
+    "rollouts": [
+      {
+        "seed": 423200,
+        "correct": false,
+        "answer": "12.21",
+        "T": 9,
+        "confidence": 0.022481320425868034,
+        "mean_entropy": 3.0054807662963867
+      },
+      {
+        "seed": 423201,
+        "correct": false,
+        "answer": "191",
+        "T": 8,
+        "confidence": 0.023053234443068504,
+        "mean_entropy": 2.881281852722168
+      },
+      {
+        "seed": 423202,
+        "correct": false,
+        "answer": "6.4",
+        "T": 3,
+        "confidence": 0.17290352284908295,
+        "mean_entropy": 2.0565037727355957
+      },
+      {
+        "seed": 423203,
+        "correct": false,
+        "answer": "12,000",
+        "T": 9,
+        "confidence": 0.052592821419239044,
+        "mean_entropy": 3.147512674331665
+      },
+      {
+        "seed": 423204,
+        "correct": false,
+        "answer": "294",
+        "T": 9,
+        "confidence": 0.04002475365996361,
+        "mean_entropy": 3.113581657409668
+      },
+      {
+        "seed": 423205,
+        "correct": false,
+        "answer": "8",
+        "T": 4,
+        "confidence": 0.5396605730056763,
+        "mean_entropy": 2.293661117553711
+      },
+      {
+        "seed": 423206,
+        "correct": false,
+        "answer": "15",
+        "T": 13,
+        "confidence": 0.05393558368086815,
+        "mean_entropy": 2.7358648777008057
+      },
+      {
+        "seed": 423207,
+        "correct": false,
+        "answer": "210",
+        "T": 7,
+        "confidence": 0.5669850707054138,
+        "mean_entropy": 2.8888862133026123
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "35",
+      "T": 5,
+      "confidence": 0.979764461517334
+    }
+  },
+  {
+    "idx": 33,
+    "gt_answer": "70",
+    "rollouts": [
+      {
+        "seed": 423300,
+        "correct": false,
+        "answer": "101",
+        "T": 9,
+        "confidence": 0.16074886918067932,
+        "mean_entropy": 4.178427696228027
+      },
+      {
+        "seed": 423301,
+        "correct": false,
+        "answer": "18",
+        "T": 7,
+        "confidence": 0.5443295240402222,
+        "mean_entropy": 2.979755163192749
+      },
+      {
+        "seed": 423302,
+        "correct": false,
+        "answer": "59",
+        "T": 3,
+        "confidence": 0.06922361999750137,
+        "mean_entropy": 3.2006499767303467
+      },
+      {
+        "seed": 423303,
+        "correct": false,
+        "answer": "46",
+        "T": 3,
+        "confidence": 0.3303065598011017,
+        "mean_entropy": 2.6857433319091797
+      },
+      {
+        "seed": 423304,
+        "correct": false,
+        "answer": "90",
+        "T": 3,
+        "confidence": 0.14126023650169373,
+        "mean_entropy": 3.8778107166290283
+      },
+      {
+        "seed": 423305,
+        "correct": false,
+        "answer": "105",
+        "T": 3,
+        "confidence": 0.1832059621810913,
+        "mean_entropy": 2.0607473850250244
+      },
+      {
+        "seed": 423306,
+        "correct": false,
+        "answer": "110",
+        "T": 9,
+        "confidence": 0.09235208481550217,
+        "mean_entropy": 3.149043083190918
+      },
+      {
+        "seed": 423307,
+        "correct": false,
+        "answer": "85",
+        "T": 7,
+        "confidence": 0.1983034759759903,
+        "mean_entropy": 3.1869447231292725
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "85",
+      "T": 5,
+      "confidence": 0.7303695678710938
+    }
+  },
+  {
+    "idx": 34,
+    "gt_answer": "23",
+    "rollouts": [
+      {
+        "seed": 423400,
+        "correct": false,
+        "answer": "107",
+        "T": 9,
+        "confidence": 0.1913488656282425,
+        "mean_entropy": 3.4209353923797607
+      },
+      {
+        "seed": 423401,
+        "correct": false,
+        "answer": "47",
+        "T": 5,
+        "confidence": 0.11205501854419708,
+        "mean_entropy": 2.776129722595215
+      },
+      {
+        "seed": 423402,
+        "correct": false,
+        "answer": "32",
+        "T": 6,
+        "confidence": 0.22316874563694,
+        "mean_entropy": 3.1373016834259033
+      },
+      {
+        "seed": 423403,
+        "correct": false,
+        "answer": "342.5",
+        "T": 7,
+        "confidence": 0.016674527898430824,
+        "mean_entropy": 2.7382659912109375
+      },
+      {
+        "seed": 423404,
+        "correct": false,
+        "answer": "110",
+        "T": 5,
+        "confidence": 0.31265878677368164,
+        "mean_entropy": 2.680474042892456
+      },
+      {
+        "seed": 423405,
+        "correct": false,
+        "answer": "6",
+        "T": 8,
+        "confidence": 0.013034089468419552,
+        "mean_entropy": 1.946789026260376
+      },
+      {
+        "seed": 423406,
+        "correct": false,
+        "answer": "912",
+        "T": 6,
+        "confidence": 0.24116677045822144,
+        "mean_entropy": 2.779277801513672
+      },
+      {
+        "seed": 423407,
+        "correct": false,
+        "answer": "300",
+        "T": 6,
+        "confidence": 0.05309196189045906,
+        "mean_entropy": 2.9279863834381104
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "23",
+      "T": 7,
+      "confidence": 0.9564071893692017
+    }
+  },
+  {
+    "idx": 35,
+    "gt_answer": "9",
+    "rollouts": [
+      {
+        "seed": 423500,
+        "correct": false,
+        "answer": "106",
+        "T": 7,
+        "confidence": 0.028827883303165436,
+        "mean_entropy": 2.8841216564178467
+      },
+      {
+        "seed": 423501,
+        "correct": false,
+        "answer": "575.83",
+        "T": 23,
+        "confidence": 0.00044664647430181503,
+        "mean_entropy": 2.909656047821045
+      },
+      {
+        "seed": 423502,
+        "correct": false,
+        "answer": "100",
+        "T": 5,
+        "confidence": 0.046975474804639816,
+        "mean_entropy": 1.7205307483673096
+      },
+      {
+        "seed": 423503,
+        "correct": false,
+        "answer": "38",
+        "T": 6,
+        "confidence": 0.038059357553720474,
+        "mean_entropy": 2.8099849224090576
+      },
+      {
+        "seed": 423504,
+        "correct": false,
+        "answer": "36666",
+        "T": 7,
+        "confidence": 0.048684973269701004,
+        "mean_entropy": 2.8621227741241455
+      },
+      {
+        "seed": 423505,
+        "correct": false,
+        "answer": "6",
+        "T": 6,
+        "confidence": 0.05042761564254761,
+        "mean_entropy": 2.808651924133301
+      },
+      {
+        "seed": 423506,
+        "correct": false,
+        "answer": "20",
+        "T": 5,
+        "confidence": 0.23206014931201935,
+        "mean_entropy": 2.9606738090515137
+      },
+      {
+        "seed": 423507,
+        "correct": false,
+        "answer": "7.1",
+        "T": 12,
+        "confidence": 0.0037764464505016804,
+        "mean_entropy": 3.060154676437378
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "4",
+      "T": 5,
+      "confidence": 0.1338537633419037
+    }
+  },
+  {
+    "idx": 36,
+    "gt_answer": "75",
+    "rollouts": [
+      {
+        "seed": 423600,
+        "correct": false,
+        "answer": "60",
+        "T": 6,
+        "confidence": 0.41371265053749084,
+        "mean_entropy": 2.952104330062866
+      },
+      {
+        "seed": 423601,
+        "correct": false,
+        "answer": "95",
+        "T": 7,
+        "confidence": 0.2441481500864029,
+        "mean_entropy": 3.508378267288208
+      },
+      {
+        "seed": 423602,
+        "correct": false,
+        "answer": "345792",
+        "T": 9,
+        "confidence": 0.04121507331728935,
+        "mean_entropy": 3.966891288757324
+      },
+      {
+        "seed": 423603,
+        "correct": false,
+        "answer": "230",
+        "T": 4,
+        "confidence": 0.14031916856765747,
+        "mean_entropy": 2.1191396713256836
+      },
+      {
+        "seed": 423604,
+        "correct": false,
+        "answer": "9,200",
+        "T": 6,
+        "confidence": 0.0674034059047699,
+        "mean_entropy": 2.6313254833221436
+      },
+      {
+        "seed": 423605,
+        "correct": false,
+        "answer": "18",
+        "T": 6,
+        "confidence": 0.043026402592659,
+        "mean_entropy": 2.2293734550476074
+      },
+      {
+        "seed": 423606,
+        "correct": false,
+        "answer": "12",
+        "T": 8,
+        "confidence": 0.036063920706510544,
+        "mean_entropy": 1.9934093952178955
+      },
+      {
+        "seed": 423607,
+        "correct": false,
+        "answer": "15",
+        "T": 7,
+        "confidence": 0.17714419960975647,
+        "mean_entropy": 2.78509259223938
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "75",
+      "T": 8,
+      "confidence": 0.9811698794364929
+    }
+  },
+  {
+    "idx": 37,
+    "gt_answer": "2",
+    "rollouts": [
+      {
+        "seed": 423700,
+        "correct": false,
+        "answer": "75",
+        "T": 13,
+        "confidence": 0.006595483515411615,
+        "mean_entropy": 3.02876615524292
+      },
+      {
+        "seed": 423701,
+        "correct": false,
+        "answer": "0",
+        "T": 6,
+        "confidence": 0.023940889164805412,
+        "mean_entropy": 1.91915762424469
+      },
+      {
+        "seed": 423702,
+        "correct": false,
+        "answer": "854",
+        "T": 11,
+        "confidence": 0.008739756420254707,
+        "mean_entropy": 3.345226287841797
+      },
+      {
+        "seed": 423703,
+        "correct": false,
+        "answer": "126",
+        "T": 9,
+        "confidence": 0.02560546062886715,
+        "mean_entropy": 3.3736486434936523
+      },
+      {
+        "seed": 423704,
+        "correct": false,
+        "answer": "11",
+        "T": 7,
+        "confidence": 0.05924312025308609,
+        "mean_entropy": 2.3492724895477295
+      },
+      {
+        "seed": 423705,
+        "correct": false,
+        "answer": "5",
+        "T": 9,
+        "confidence": 0.018175898119807243,
+        "mean_entropy": 3.3263823986053467
+      },
+      {
+        "seed": 423706,
+        "correct": false,
+        "answer": "86",
+        "T": 11,
+        "confidence": 0.005238034296780825,
+        "mean_entropy": 2.7177610397338867
+      },
+      {
+        "seed": 423707,
+        "correct": false,
+        "answer": "3",
+        "T": 7,
+        "confidence": 0.043303411453962326,
+        "mean_entropy": 3.2098097801208496
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "10",
+      "T": 7,
+      "confidence": 0.012753898277878761
+    }
+  },
+  {
+    "idx": 38,
+    "gt_answer": "10",
+    "rollouts": [
+      {
+        "seed": 423800,
+        "correct": false,
+        "answer": "42.",
+        "T": 7,
+        "confidence": 0.02772284671664238,
+        "mean_entropy": 3.1067464351654053
+      },
+      {
+        "seed": 423801,
+        "correct": false,
+        "answer": "187.5",
+        "T": 8,
+        "confidence": 0.028218431398272514,
+        "mean_entropy": 2.265782356262207
+      },
+      {
+        "seed": 423802,
+        "correct": false,
+        "answer": "0",
+        "T": 9,
+        "confidence": 0.017496077343821526,
+        "mean_entropy": 2.7105419635772705
+      },
+      {
+        "seed": 423803,
+        "correct": false,
+        "answer": "38",
+        "T": 14,
+        "confidence": 0.005020990502089262,
+        "mean_entropy": 2.6024158000946045
+      },
+      {
+        "seed": 423804,
+        "correct": false,
+        "answer": "39.9",
+        "T": 10,
+        "confidence": 0.012458901852369308,
+        "mean_entropy": 3.211831569671631
+      },
+      {
+        "seed": 423805,
+        "correct": false,
+        "answer": "184",
+        "T": 6,
+        "confidence": 0.023330101743340492,
+        "mean_entropy": 2.2780067920684814
+      },
+      {
+        "seed": 423806,
+        "correct": false,
+        "answer": "13.233",
+        "T": 10,
+        "confidence": 0.011121557094156742,
+        "mean_entropy": 3.0231146812438965
+      },
+      {
+        "seed": 423807,
+        "correct": false,
+        "answer": "1,075",
+        "T": 13,
+        "confidence": 0.18575768172740936,
+        "mean_entropy": 2.996967077255249
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "13.33",
+      "T": 9,
+      "confidence": 0.042462293058633804
+    }
+  },
+  {
+    "idx": 39,
+    "gt_answer": "18",
+    "rollouts": [
+      {
+        "seed": 423900,
+        "correct": false,
+        "answer": "1106.2",
+        "T": 16,
+        "confidence": 0.002467024140059948,
+        "mean_entropy": 3.022067070007324
+      },
+      {
+        "seed": 423901,
+        "correct": false,
+        "answer": "130.17",
+        "T": 7,
+        "confidence": 0.030188817530870438,
+        "mean_entropy": 2.900660991668701
+      },
+      {
+        "seed": 423902,
+        "correct": false,
+        "answer": "82046520",
+        "T": 19,
+        "confidence": 0.0013660832773894072,
+        "mean_entropy": 3.498727560043335
+      },
+      {
+        "seed": 423903,
+        "correct": false,
+        "answer": "30",
+        "T": 18,
+        "confidence": 0.003515911055728793,
+        "mean_entropy": 3.1252214908599854
+      },
+      {
+        "seed": 423904,
+        "correct": false,
+        "answer": "12",
+        "T": 6,
+        "confidence": 0.04472225531935692,
+        "mean_entropy": 2.713273048400879
+      },
+      {
+        "seed": 423905,
+        "correct": false,
+        "answer": "12,000",
+        "T": 12,
+        "confidence": 0.017831459641456604,
+        "mean_entropy": 2.661661148071289
+      },
+      {
+        "seed": 423906,
+        "correct": false,
+        "answer": "33",
+        "T": 22,
+        "confidence": 0.0006749149761162698,
+        "mean_entropy": 3.2433907985687256
+      },
+      {
+        "seed": 423907,
+        "correct": false,
+        "answer": "110",
+        "T": 6,
+        "confidence": 0.04588117450475693,
+        "mean_entropy": 3.420572280883789
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "36",
+      "T": 11,
+      "confidence": 0.026871439069509506
+    }
+  },
+  {
+    "idx": 40,
+    "gt_answer": "8",
+    "rollouts": [
+      {
+        "seed": 424000,
+        "correct": false,
+        "answer": "25",
+        "T": 3,
+        "confidence": 0.923065721988678,
+        "mean_entropy": 1.364524245262146
+      },
+      {
+        "seed": 424001,
+        "correct": false,
+        "answer": "5",
+        "T": 5,
+        "confidence": 0.9375507831573486,
+        "mean_entropy": 1.8688983917236328
+      },
+      {
+        "seed": 424002,
+        "correct": false,
+        "answer": "4",
+        "T": 5,
+        "confidence": 0.9658808708190918,
+        "mean_entropy": 2.0671119689941406
+      },
+      {
+        "seed": 424003,
+        "correct": false,
+        "answer": "4",
+        "T": 6,
+        "confidence": 0.2657575011253357,
+        "mean_entropy": 1.5704492330551147
+      },
+      {
+        "seed": 424004,
+        "correct": false,
+        "answer": "16",
+        "T": 5,
+        "confidence": 0.8373326063156128,
+        "mean_entropy": 2.651684522628784
+      },
+      {
+        "seed": 424005,
+        "correct": false,
+        "answer": "7.4",
+        "T": 5,
+        "confidence": 0.1728711575269699,
+        "mean_entropy": 2.5455498695373535
+      },
+      {
+        "seed": 424006,
+        "correct": false,
+        "answer": "25890",
+        "T": 128,
+        "confidence": 7.878505130065605e-05,
+        "mean_entropy": 1.8009066581726074
+      },
+      {
+        "seed": 424007,
+        "correct": false,
+        "answer": "18",
+        "T": 5,
+        "confidence": 0.535981297492981,
+        "mean_entropy": 2.552973747253418
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "8",
+      "T": 5,
+      "confidence": 0.987733006477356
+    }
+  },
+  {
+    "idx": 41,
+    "gt_answer": "200",
+    "rollouts": [
+      {
+        "seed": 424100,
+        "correct": false,
+        "answer": "12,000",
+        "T": 8,
+        "confidence": 0.011366402730345726,
+        "mean_entropy": 3.9443256855010986
+      },
+      {
+        "seed": 424101,
+        "correct": false,
+        "answer": "600",
+        "T": 3,
+        "confidence": 0.19284005463123322,
+        "mean_entropy": 3.743279218673706
+      },
+      {
+        "seed": 424102,
+        "correct": false,
+        "answer": "7,200",
+        "T": 7,
+        "confidence": 0.011412031948566437,
+        "mean_entropy": 3.208325147628784
+      },
+      {
+        "seed": 424103,
+        "correct": false,
+        "answer": "35070",
+        "T": 4,
+        "confidence": 0.03901110962033272,
+        "mean_entropy": 4.212947845458984
+      },
+      {
+        "seed": 424104,
+        "correct": false,
+        "answer": "1030",
+        "T": 6,
+        "confidence": 0.018436040729284286,
+        "mean_entropy": 3.129303216934204
+      },
+      {
+        "seed": 424105,
+        "correct": false,
+        "answer": "9,000",
+        "T": 5,
+        "confidence": 0.051354795694351196,
+        "mean_entropy": 2.8874998092651367
+      },
+      {
+        "seed": 424106,
+        "correct": false,
+        "answer": "25",
+        "T": 8,
+        "confidence": 0.028919663280248642,
+        "mean_entropy": 2.91365122795105
+      },
+      {
+        "seed": 424107,
+        "correct": false,
+        "answer": "198",
+        "T": 5,
+        "confidence": 0.03711611405014992,
+        "mean_entropy": 2.720935821533203
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "200",
+      "T": 6,
+      "confidence": 0.06880830228328705
+    }
+  },
+  {
+    "idx": 42,
+    "gt_answer": "26",
+    "rollouts": [
+      {
+        "seed": 424200,
+        "correct": false,
+        "answer": "59316",
+        "T": 6,
+        "confidence": 0.1460062861442566,
+        "mean_entropy": 3.2877979278564453
+      },
+      {
+        "seed": 424201,
+        "correct": false,
+        "answer": "16",
+        "T": 7,
+        "confidence": 0.15126575529575348,
+        "mean_entropy": 3.5479283332824707
+      },
+      {
+        "seed": 424202,
+        "correct": false,
+        "answer": "14",
+        "T": 4,
+        "confidence": 0.19629162549972534,
+        "mean_entropy": 2.55387282371521
+      },
+      {
+        "seed": 424203,
+        "correct": false,
+        "answer": "63",
+        "T": 9,
+        "confidence": 0.021427186205983162,
+        "mean_entropy": 3.1404287815093994
+      },
+      {
+        "seed": 424204,
+        "correct": false,
+        "answer": "10",
+        "T": 3,
+        "confidence": 0.26563048362731934,
+        "mean_entropy": 1.6710273027420044
+      },
+      {
+        "seed": 424205,
+        "correct": false,
+        "answer": "60",
+        "T": 4,
+        "confidence": 0.041464194655418396,
+        "mean_entropy": 3.055569648742676
+      },
+      {
+        "seed": 424206,
+        "correct": false,
+        "answer": "15,834",
+        "T": 6,
+        "confidence": 0.01936120167374611,
+        "mean_entropy": 3.464930295944214
+      },
+      {
+        "seed": 424207,
+        "correct": false,
+        "answer": "787",
+        "T": 7,
+        "confidence": 0.009883037768304348,
+        "mean_entropy": 3.567528247833252
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "26",
+      "T": 5,
+      "confidence": 0.9371391534805298
+    }
+  },
+  {
+    "idx": 43,
+    "gt_answer": "48",
+    "rollouts": [
+      {
+        "seed": 424300,
+        "correct": false,
+        "answer": "1250",
+        "T": 3,
+        "confidence": 0.11748334765434265,
+        "mean_entropy": 2.617424726486206
+      },
+      {
+        "seed": 424301,
+        "correct": false,
+        "answer": "739",
+        "T": 10,
+        "confidence": 0.015437470749020576,
+        "mean_entropy": 3.6659960746765137
+      },
+      {
+        "seed": 424302,
+        "correct": false,
+        "answer": "17430",
+        "T": 17,
+        "confidence": 0.0018066304037347436,
+        "mean_entropy": 3.436885356903076
+      },
+      {
+        "seed": 424303,
+        "correct": false,
+        "answer": "10",
+        "T": 7,
+        "confidence": 0.02448934130370617,
+        "mean_entropy": 3.313138246536255
+      },
+      {
+        "seed": 424304,
+        "correct": false,
+        "answer": "1200",
+        "T": 3,
+        "confidence": 0.10864979028701782,
+        "mean_entropy": 3.047116279602051
+      },
+      {
+        "seed": 424305,
+        "correct": false,
+        "answer": "36,000",
+        "T": 12,
+        "confidence": 0.004042675253003836,
+        "mean_entropy": 3.423966646194458
+      },
+      {
+        "seed": 424306,
+        "correct": false,
+        "answer": "23200",
+        "T": 11,
+        "confidence": 0.006376367527991533,
+        "mean_entropy": 3.3477094173431396
+      },
+      {
+        "seed": 424307,
+        "correct": false,
+        "answer": "6689.12",
+        "T": 16,
+        "confidence": 0.001375247840769589,
+        "mean_entropy": 3.3821322917938232
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "720",
+      "T": 10,
+      "confidence": 0.014052563346922398
+    }
+  },
+  {
+    "idx": 44,
+    "gt_answer": "20",
+    "rollouts": [
+      {
+        "seed": 424400,
+        "correct": false,
+        "answer": "6.6",
+        "T": 9,
+        "confidence": 0.011163841001689434,
+        "mean_entropy": 3.5609960556030273
+      },
+      {
+        "seed": 424401,
+        "correct": false,
+        "answer": "19088",
+        "T": 11,
+        "confidence": 0.013257278129458427,
+        "mean_entropy": 4.275243759155273
+      },
+      {
+        "seed": 424402,
+        "correct": false,
+        "answer": "90",
+        "T": 8,
+        "confidence": 0.6422569751739502,
+        "mean_entropy": 2.0051982402801514
+      },
+      {
+        "seed": 424403,
+        "correct": true,
+        "answer": "20",
+        "T": 7,
+        "confidence": 0.029525386169552803,
+        "mean_entropy": 3.007763147354126
+      },
+      {
+        "seed": 424404,
+        "correct": false,
+        "answer": "12",
+        "T": 8,
+        "confidence": 0.01747320592403412,
+        "mean_entropy": 3.173370361328125
+      },
+      {
+        "seed": 424405,
+        "correct": false,
+        "answer": "10",
+        "T": 8,
+        "confidence": 0.028064493089914322,
+        "mean_entropy": 2.793363571166992
+      },
+      {
+        "seed": 424406,
+        "correct": false,
+        "answer": "17,300",
+        "T": 18,
+        "confidence": 0.002192404353991151,
+        "mean_entropy": 3.1897571086883545
+      },
+      {
+        "seed": 424407,
+        "correct": false,
+        "answer": "66",
+        "T": 9,
+        "confidence": 0.023915769532322884,
+        "mean_entropy": 2.908669948577881
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "30",
+      "T": 6,
+      "confidence": 0.6260183453559875
+    }
+  },
+  {
+    "idx": 45,
+    "gt_answer": "104",
+    "rollouts": [
+      {
+        "seed": 424500,
+        "correct": false,
+        "answer": "149594",
+        "T": 10,
+        "confidence": 0.03961333632469177,
+        "mean_entropy": 2.260247230529785
+      },
+      {
+        "seed": 424501,
+        "correct": false,
+        "answer": "2,819",
+        "T": 18,
+        "confidence": 0.0008593139937147498,
+        "mean_entropy": 3.9064645767211914
+      },
+      {
+        "seed": 424502,
+        "correct": false,
+        "answer": "18470964",
+        "T": 28,
+        "confidence": 0.00011513531353557482,
+        "mean_entropy": 3.504157304763794
+      },
+      {
+        "seed": 424503,
+        "correct": false,
+        "answer": "27",
+        "T": 15,
+        "confidence": 0.0031059032771736383,
+        "mean_entropy": 3.1732778549194336
+      },
+      {
+        "seed": 424504,
+        "correct": false,
+        "answer": "520",
+        "T": 8,
+        "confidence": 0.0548395998775959,
+        "mean_entropy": 2.7803211212158203
+      },
+      {
+        "seed": 424505,
+        "correct": false,
+        "answer": "10577",
+        "T": 8,
+        "confidence": 0.028025848791003227,
+        "mean_entropy": 3.6798462867736816
+      },
+      {
+        "seed": 424506,
+        "correct": false,
+        "answer": "18",
+        "T": 9,
+        "confidence": 0.019766515120863914,
+        "mean_entropy": 2.7329788208007812
+      },
+      {
+        "seed": 424507,
+        "correct": false,
+        "answer": "492",
+        "T": 17,
+        "confidence": 0.0011451903264969587,
+        "mean_entropy": 2.816187620162964
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "60",
+      "T": 12,
+      "confidence": 0.012077788822352886
+    }
+  },
+  {
+    "idx": 46,
+    "gt_answer": "163",
+    "rollouts": [
+      {
+        "seed": 424600,
+        "correct": false,
+        "answer": "178",
+        "T": 3,
+        "confidence": 0.035303011536598206,
+        "mean_entropy": 2.3385708332061768
+      },
+      {
+        "seed": 424601,
+        "correct": false,
+        "answer": "71",
+        "T": 3,
+        "confidence": 0.07573767751455307,
+        "mean_entropy": 2.812006711959839
+      },
+      {
+        "seed": 424602,
+        "correct": false,
+        "answer": "239",
+        "T": 3,
+        "confidence": 0.038038380444049835,
+        "mean_entropy": 2.074094295501709
+      },
+      {
+        "seed": 424603,
+        "correct": false,
+        "answer": "29",
+        "T": 5,
+        "confidence": 0.01797858066856861,
+        "mean_entropy": 2.8186941146850586
+      },
+      {
+        "seed": 424604,
+        "correct": false,
+        "answer": "7",
+        "T": 3,
+        "confidence": 0.125839501619339,
+        "mean_entropy": 3.1691787242889404
+      },
+      {
+        "seed": 424605,
+        "correct": false,
+        "answer": "23",
+        "T": 3,
+        "confidence": 0.03737104311585426,
+        "mean_entropy": 2.976156234741211
+      },
+      {
+        "seed": 424606,
+        "correct": false,
+        "answer": "17,350",
+        "T": 5,
+        "confidence": 0.026667341589927673,
+        "mean_entropy": 3.665362596511841
+      },
+      {
+        "seed": 424607,
+        "correct": false,
+        "answer": "478",
+        "T": 3,
+        "confidence": 0.030544597655534744,
+        "mean_entropy": 2.587559938430786
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "97",
+      "T": 3,
+      "confidence": 0.04837430641055107
+    }
+  },
+  {
+    "idx": 47,
+    "gt_answer": "800",
+    "rollouts": [
+      {
+        "seed": 424700,
+        "correct": false,
+        "answer": "58",
+        "T": 7,
+        "confidence": 0.2362748235464096,
+        "mean_entropy": 2.179689645767212
+      },
+      {
+        "seed": 424701,
+        "correct": false,
+        "answer": "15200",
+        "T": 6,
+        "confidence": 0.03462481498718262,
+        "mean_entropy": 3.854341506958008
+      },
+      {
+        "seed": 424702,
+        "correct": false,
+        "answer": "687250",
+        "T": 15,
+        "confidence": 0.002130805281922221,
+        "mean_entropy": 3.2864181995391846
+      },
+      {
+        "seed": 424703,
+        "correct": false,
+        "answer": "33.33",
+        "T": 16,
+        "confidence": 0.0020547339227050543,
+        "mean_entropy": 3.2169041633605957
+      },
+      {
+        "seed": 424704,
+        "correct": false,
+        "answer": "7,200",
+        "T": 12,
+        "confidence": 0.0037082869093865156,
+        "mean_entropy": 2.844540596008301
+      },
+      {
+        "seed": 424705,
+        "correct": false,
+        "answer": "61,470",
+        "T": 8,
+        "confidence": 0.020854219794273376,
+        "mean_entropy": 2.9244260787963867
+      },
+      {
+        "seed": 424706,
+        "correct": false,
+        "answer": "21,980",
+        "T": 14,
+        "confidence": 0.01182348933070898,
+        "mean_entropy": 3.139859437942505
+      },
+      {
+        "seed": 424707,
+        "correct": false,
+        "answer": "829",
+        "T": 13,
+        "confidence": 0.010970275849103928,
+        "mean_entropy": 2.6876561641693115
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "265",
+      "T": 12,
+      "confidence": 0.019426627084612846
+    }
+  },
+  {
+    "idx": 48,
+    "gt_answer": "8",
+    "rollouts": [
+      {
+        "seed": 424800,
+        "correct": false,
+        "answer": "156",
+        "T": 7,
+        "confidence": 0.14473949372768402,
+        "mean_entropy": 3.2357935905456543
+      },
+      {
+        "seed": 424801,
+        "correct": false,
+        "answer": "137509",
+        "T": 10,
+        "confidence": 0.014788609929382801,
+        "mean_entropy": 3.2275538444519043
+      },
+      {
+        "seed": 424802,
+        "correct": false,
+        "answer": "18",
+        "T": 4,
+        "confidence": 0.0861126258969307,
+        "mean_entropy": 2.497958183288574
+      },
+      {
+        "seed": 424803,
+        "correct": false,
+        "answer": "684",
+        "T": 6,
+        "confidence": 0.11200058460235596,
+        "mean_entropy": 3.1643600463867188
+      },
+      {
+        "seed": 424804,
+        "correct": false,
+        "answer": "200",
+        "T": 5,
+        "confidence": 0.680600106716156,
+        "mean_entropy": 2.5413432121276855
+      },
+      {
+        "seed": 424805,
+        "correct": false,
+        "answer": "104",
+        "T": 7,
+        "confidence": 0.04304705560207367,
+        "mean_entropy": 3.0193753242492676
+      },
+      {
+        "seed": 424806,
+        "correct": false,
+        "answer": "14",
+        "T": 8,
+        "confidence": 0.8223802447319031,
+        "mean_entropy": 2.686514377593994
+      },
+      {
+        "seed": 424807,
+        "correct": false,
+        "answer": "147",
+        "T": 6,
+        "confidence": 0.04200383648276329,
+        "mean_entropy": 2.86480975151062
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "8",
+      "T": 5,
+      "confidence": 0.9852004051208496
+    }
+  },
+  {
+    "idx": 49,
+    "gt_answer": "30",
+    "rollouts": [
+      {
+        "seed": 424900,
+        "correct": false,
+        "answer": "0",
+        "T": 6,
+        "confidence": 0.0582720972597599,
+        "mean_entropy": 2.5438482761383057
+      },
+      {
+        "seed": 424901,
+        "correct": false,
+        "answer": "615",
+        "T": 7,
+        "confidence": 0.011567768640816212,
+        "mean_entropy": 2.567129611968994
+      },
+      {
+        "seed": 424902,
+        "correct": false,
+        "answer": "69696",
+        "T": 8,
+        "confidence": 0.4117942452430725,
+        "mean_entropy": 3.0208852291107178
+      },
+      {
+        "seed": 424903,
+        "correct": false,
+        "answer": "24.975",
+        "T": 8,
+        "confidence": 0.016372594982385635,
+        "mean_entropy": 3.39969539642334
+      },
+      {
+        "seed": 424904,
+        "correct": false,
+        "answer": "151",
+        "T": 7,
+        "confidence": 0.109292171895504,
+        "mean_entropy": 2.5534615516662598
+      },
+      {
+        "seed": 424905,
+        "correct": false,
+        "answer": "720",
+        "T": 6,
+        "confidence": 0.0701160803437233,
+        "mean_entropy": 2.4548449516296387
+      },
+      {
+        "seed": 424906,
+        "correct": false,
+        "answer": "120",
+        "T": 5,
+        "confidence": 0.08823154121637344,
+        "mean_entropy": 3.345837116241455
+      },
+      {
+        "seed": 424907,
+        "correct": false,
+        "answer": "1930",
+        "T": 6,
+        "confidence": 0.030137136578559875,
+        "mean_entropy": 2.96700119972229
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "30",
+      "T": 7,
+      "confidence": 0.9325053095817566
+    }
+  },
+  {
+    "idx": 50,
+    "gt_answer": "294",
+    "rollouts": [
+      {
+        "seed": 425000,
+        "correct": false,
+        "answer": "1268",
+        "T": 6,
+        "confidence": 0.03460977226495743,
+        "mean_entropy": 2.8887526988983154
+      },
+      {
+        "seed": 425001,
+        "correct": false,
+        "answer": "967",
+        "T": 11,
+        "confidence": 0.009348349645733833,
+        "mean_entropy": 2.924381971359253
+      },
+      {
+        "seed": 425002,
+        "correct": false,
+        "answer": "78906",
+        "T": 11,
+        "confidence": 0.021896060556173325,
+        "mean_entropy": 4.171598434448242
+      },
+      {
+        "seed": 425003,
+        "correct": false,
+        "answer": "622098196945378987650740912889600",
+        "T": 12,
+        "confidence": 0.002915560035035014,
+        "mean_entropy": 3.6681296825408936
+      },
+      {
+        "seed": 425004,
+        "correct": false,
+        "answer": "34366079020",
+        "T": 42,
+        "confidence": 1.0570520316832699e-05,
+        "mean_entropy": 3.934483766555786
+      },
+      {
+        "seed": 425005,
+        "correct": false,
+        "answer": "14128360",
+        "T": 17,
+        "confidence": 0.0036881612613797188,
+        "mean_entropy": 3.982525587081909
+      },
+      {
+        "seed": 425006,
+        "correct": false,
+        "answer": "60430",
+        "T": 6,
+        "confidence": 0.06994850933551788,
+        "mean_entropy": 3.1670961380004883
+      },
+      {
+        "seed": 425007,
+        "correct": false,
+        "answer": "90",
+        "T": 6,
+        "confidence": 0.04704146832227707,
+        "mean_entropy": 2.502457857131958
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "374",
+      "T": 7,
+      "confidence": 0.014014876447618008
+    }
+  },
+  {
+    "idx": 51,
+    "gt_answer": "5",
+    "rollouts": [
+      {
+        "seed": 425100,
+        "correct": false,
+        "answer": "13.33",
+        "T": 9,
+        "confidence": 0.03571200743317604,
+        "mean_entropy": 2.186258554458618
+      },
+      {
+        "seed": 425101,
+        "correct": false,
+        "answer": "3.33",
+        "T": 7,
+        "confidence": 0.03769616410136223,
+        "mean_entropy": 2.0572266578674316
+      },
+      {
+        "seed": 425102,
+        "correct": false,
+        "answer": "0.166",
+        "T": 8,
+        "confidence": 0.025831187143921852,
+        "mean_entropy": 2.3025619983673096
+      },
+      {
+        "seed": 425103,
+        "correct": false,
+        "answer": "21.",
+        "T": 6,
+        "confidence": 0.1090162843465805,
+        "mean_entropy": 2.3546626567840576
+      },
+      {
+        "seed": 425104,
+        "correct": false,
+        "answer": "42",
+        "T": 4,
+        "confidence": 0.05329824984073639,
+        "mean_entropy": 1.9922910928726196
+      },
+      {
+        "seed": 425105,
+        "correct": false,
+        "answer": "",
+        "T": 6,
+        "confidence": 0.043293699622154236,
+        "mean_entropy": 2.0702269077301025
+      },
+      {
+        "seed": 425106,
+        "correct": false,
+        "answer": "20",
+        "T": 5,
+        "confidence": 0.5727930665016174,
+        "mean_entropy": 1.9153709411621094
+      },
+      {
+        "seed": 425107,
+        "correct": false,
+        "answer": "294",
+        "T": 4,
+        "confidence": 0.034808360040187836,
+        "mean_entropy": 2.032993793487549
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "5",
+      "T": 7,
+      "confidence": 0.6763073801994324
+    }
+  },
+  {
+    "idx": 52,
+    "gt_answer": "15",
+    "rollouts": [
+      {
+        "seed": 425200,
+        "correct": false,
+        "answer": "77590",
+        "T": 9,
+        "confidence": 0.11598937958478928,
+        "mean_entropy": 3.47202467918396
+      },
+      {
+        "seed": 425201,
+        "correct": false,
+        "answer": "370",
+        "T": 7,
+        "confidence": 0.0240920502692461,
+        "mean_entropy": 3.2522354125976562
+      },
+      {
+        "seed": 425202,
+        "correct": false,
+        "answer": "7",
+        "T": 8,
+        "confidence": 0.1004609763622284,
+        "mean_entropy": 2.6212546825408936
+      },
+      {
+        "seed": 425203,
+        "correct": false,
+        "answer": "60",
+        "T": 4,
+        "confidence": 0.9309791326522827,
+        "mean_entropy": 2.6153500080108643
+      },
+      {
+        "seed": 425204,
+        "correct": false,
+        "answer": "931",
+        "T": 6,
+        "confidence": 0.021654564887285233,
+        "mean_entropy": 2.7078819274902344
+      },
+      {
+        "seed": 425205,
+        "correct": false,
+        "answer": "10",
+        "T": 4,
+        "confidence": 0.07263829559087753,
+        "mean_entropy": 2.999997138977051
+      },
+      {
+        "seed": 425206,
+        "correct": false,
+        "answer": "36",
+        "T": 9,
+        "confidence": 0.0115321334451437,
+        "mean_entropy": 3.362539052963257
+      },
+      {
+        "seed": 425207,
+        "correct": true,
+        "answer": "15",
+        "T": 11,
+        "confidence": 0.004819236230105162,
+        "mean_entropy": 2.9570958614349365
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "15",
+      "T": 3,
+      "confidence": 0.1547686755657196
+    }
+  },
+  {
+    "idx": 53,
+    "gt_answer": "40",
+    "rollouts": [
+      {
+        "seed": 425300,
+        "correct": false,
+        "answer": "12",
+        "T": 11,
+        "confidence": 0.015455358661711216,
+        "mean_entropy": 3.1645116806030273
+      },
+      {
+        "seed": 425301,
+        "correct": false,
+        "answer": "81430",
+        "T": 13,
+        "confidence": 0.006751566659659147,
+        "mean_entropy": 3.7462058067321777
+      },
+      {
+        "seed": 425302,
+        "correct": false,
+        "answer": "16",
+        "T": 7,
+        "confidence": 0.03563601151108742,
+        "mean_entropy": 2.9437146186828613
+      },
+      {
+        "seed": 425303,
+        "correct": false,
+        "answer": "297600",
+        "T": 12,
+        "confidence": 0.005315433721989393,
+        "mean_entropy": 3.4249813556671143
+      },
+      {
+        "seed": 425304,
+        "correct": false,
+        "answer": "3609",
+        "T": 8,
+        "confidence": 0.036583464592695236,
+        "mean_entropy": 3.1610162258148193
+      },
+      {
+        "seed": 425305,
+        "correct": false,
+        "answer": "904",
+        "T": 10,
+        "confidence": 0.015599017962813377,
+        "mean_entropy": 2.3985531330108643
+      },
+      {
+        "seed": 425306,
+        "correct": false,
+        "answer": "18,960",
+        "T": 15,
+        "confidence": 0.004761775489896536,
+        "mean_entropy": 3.9692301750183105
+      },
+      {
+        "seed": 425307,
+        "correct": false,
+        "answer": "18,955592",
+        "T": 24,
+        "confidence": 0.0002808153803925961,
+        "mean_entropy": 3.7479190826416016
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "40",
+      "T": 10,
+      "confidence": 0.7985448241233826
+    }
+  },
+  {
+    "idx": 54,
+    "gt_answer": "40",
+    "rollouts": [
+      {
+        "seed": 425400,
+        "correct": false,
+        "answer": "60",
+        "T": 5,
+        "confidence": 0.21266895532608032,
+        "mean_entropy": 2.1651597023010254
+      },
+      {
+        "seed": 425401,
+        "correct": false,
+        "answer": "19",
+        "T": 5,
+        "confidence": 0.05602474883198738,
+        "mean_entropy": 3.128007173538208
+      },
+      {
+        "seed": 425402,
+        "correct": false,
+        "answer": "44",
+        "T": 5,
+        "confidence": 0.04196175932884216,
+        "mean_entropy": 2.1726386547088623
+      },
+      {
+        "seed": 425403,
+        "correct": false,
+        "answer": "58",
+        "T": 10,
+        "confidence": 0.012399203144013882,
+        "mean_entropy": 2.3391449451446533
+      },
+      {
+        "seed": 425404,
+        "correct": false,
+        "answer": "89",
+        "T": 8,
+        "confidence": 0.10987377911806107,
+        "mean_entropy": 3.2835423946380615
+      },
+      {
+        "seed": 425405,
+        "correct": false,
+        "answer": "66930",
+        "T": 13,
+        "confidence": 0.00826789066195488,
+        "mean_entropy": 3.153911828994751
+      },
+      {
+        "seed": 425406,
+        "correct": false,
+        "answer": "14",
+        "T": 3,
+        "confidence": 0.3177240788936615,
+        "mean_entropy": 2.5730621814727783
+      },
+      {
+        "seed": 425407,
+        "correct": false,
+        "answer": "131464",
+        "T": 12,
+        "confidence": 0.012153598479926586,
+        "mean_entropy": 3.3174078464508057
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "40",
+      "T": 7,
+      "confidence": 0.5574180483818054
+    }
+  },
+  {
+    "idx": 55,
+    "gt_answer": "14",
+    "rollouts": [
+      {
+        "seed": 425500,
+        "correct": false,
+        "answer": "10",
+        "T": 13,
+        "confidence": 0.023608895018696785,
+        "mean_entropy": 3.6529340744018555
+      },
+      {
+        "seed": 425501,
+        "correct": false,
+        "answer": "70",
+        "T": 8,
+        "confidence": 0.437958687543869,
+        "mean_entropy": 2.882124662399292
+      },
+      {
+        "seed": 425502,
+        "correct": false,
+        "answer": "15",
+        "T": 6,
+        "confidence": 0.1277759075164795,
+        "mean_entropy": 2.4976491928100586
+      },
+      {
+        "seed": 425503,
+        "correct": false,
+        "answer": "16",
+        "T": 5,
+        "confidence": 0.26686733961105347,
+        "mean_entropy": 2.6822152137756348
+      },
+      {
+        "seed": 425504,
+        "correct": false,
+        "answer": "28",
+        "T": 5,
+        "confidence": 0.592167854309082,
+        "mean_entropy": 2.7511227130889893
+      },
+      {
+        "seed": 425505,
+        "correct": false,
+        "answer": "41",
+        "T": 6,
+        "confidence": 0.4124031364917755,
+        "mean_entropy": 2.1335179805755615
+      },
+      {
+        "seed": 425506,
+        "correct": true,
+        "answer": "14",
+        "T": 4,
+        "confidence": 0.11281022429466248,
+        "mean_entropy": 2.2990264892578125
+      },
+      {
+        "seed": 425507,
+        "correct": false,
+        "answer": "800",
+        "T": 5,
+        "confidence": 0.14942951500415802,
+        "mean_entropy": 2.1260573863983154
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "14",
+      "T": 5,
+      "confidence": 0.9378347992897034
+    }
+  },
+  {
+    "idx": 56,
+    "gt_answer": "3",
+    "rollouts": [
+      {
+        "seed": 425600,
+        "correct": false,
+        "answer": "504",
+        "T": 7,
+        "confidence": 0.18404459953308105,
+        "mean_entropy": 3.671830892562866
+      },
+      {
+        "seed": 425601,
+        "correct": false,
+        "answer": "1",
+        "T": 7,
+        "confidence": 0.041967421770095825,
+        "mean_entropy": 2.9735310077667236
+      },
+      {
+        "seed": 425602,
+        "correct": false,
+        "answer": "1",
+        "T": 4,
+        "confidence": 0.03454816713929176,
+        "mean_entropy": 1.71181321144104
+      },
+      {
+        "seed": 425603,
+        "correct": false,
+        "answer": "1",
+        "T": 6,
+        "confidence": 0.2573678195476532,
+        "mean_entropy": 3.339371681213379
+      },
+      {
+        "seed": 425604,
+        "correct": false,
+        "answer": "1",
+        "T": 8,
+        "confidence": 0.2754449248313904,
+        "mean_entropy": 3.36629319190979
+      },
+      {
+        "seed": 425605,
+        "correct": false,
+        "answer": "1",
+        "T": 7,
+        "confidence": 0.09744244068861008,
+        "mean_entropy": 3.2373592853546143
+      },
+      {
+        "seed": 425606,
+        "correct": false,
+        "answer": "1",
+        "T": 7,
+        "confidence": 0.2362872064113617,
+        "mean_entropy": 2.3004417419433594
+      },
+      {
+        "seed": 425607,
+        "correct": false,
+        "answer": "6",
+        "T": 8,
+        "confidence": 0.4504494369029999,
+        "mean_entropy": 2.78378963470459
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "3",
+      "T": 5,
+      "confidence": 0.978931725025177
+    }
+  },
+  {
+    "idx": 57,
+    "gt_answer": "83",
+    "rollouts": [
+      {
+        "seed": 425700,
+        "correct": false,
+        "answer": "122485",
+        "T": 22,
+        "confidence": 0.0010941993677988648,
+        "mean_entropy": 3.835836172103882
+      },
+      {
+        "seed": 425701,
+        "correct": false,
+        "answer": "155",
+        "T": 6,
+        "confidence": 0.06442703306674957,
+        "mean_entropy": 2.8008720874786377
+      },
+      {
+        "seed": 425702,
+        "correct": false,
+        "answer": "0",
+        "T": 3,
+        "confidence": 0.13277973234653473,
+        "mean_entropy": 2.2077276706695557
+      },
+      {
+        "seed": 425703,
+        "correct": false,
+        "answer": "00",
+        "T": 9,
+        "confidence": 0.022485559806227684,
+        "mean_entropy": 2.712001085281372
+      },
+      {
+        "seed": 425704,
+        "correct": false,
+        "answer": "107",
+        "T": 7,
+        "confidence": 0.019021013751626015,
+        "mean_entropy": 2.8741095066070557
+      },
+      {
+        "seed": 425705,
+        "correct": false,
+        "answer": "75",
+        "T": 8,
+        "confidence": 0.012350453063845634,
+        "mean_entropy": 3.1950297355651855
+      },
+      {
+        "seed": 425706,
+        "correct": false,
+        "answer": "137",
+        "T": 7,
+        "confidence": 0.11437427252531052,
+        "mean_entropy": 2.7957088947296143
+      },
+      {
+        "seed": 425707,
+        "correct": false,
+        "answer": "11",
+        "T": 11,
+        "confidence": 0.00848993007093668,
+        "mean_entropy": 3.402465581893921
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "83",
+      "T": 6,
+      "confidence": 0.04650290682911873
+    }
+  },
+  {
+    "idx": 58,
+    "gt_answer": "57",
+    "rollouts": [
+      {
+        "seed": 425800,
+        "correct": false,
+        "answer": "123",
+        "T": 4,
+        "confidence": 0.19233092665672302,
+        "mean_entropy": 1.831629991531372
+      },
+      {
+        "seed": 425801,
+        "correct": false,
+        "answer": "2049",
+        "T": 7,
+        "confidence": 0.03254642337560654,
+        "mean_entropy": 3.980513334274292
+      },
+      {
+        "seed": 425802,
+        "correct": false,
+        "answer": "127.5",
+        "T": 9,
+        "confidence": 0.04283956438302994,
+        "mean_entropy": 2.7410507202148438
+      },
+      {
+        "seed": 425803,
+        "correct": false,
+        "answer": "222.5",
+        "T": 7,
+        "confidence": 0.02149520069360733,
+        "mean_entropy": 3.19468092918396
+      },
+      {
+        "seed": 425804,
+        "correct": false,
+        "answer": "15,30",
+        "T": 6,
+        "confidence": 0.08222925662994385,
+        "mean_entropy": 2.8045241832733154
+      },
+      {
+        "seed": 425805,
+        "correct": false,
+        "answer": "47.67",
+        "T": 10,
+        "confidence": 0.05954703316092491,
+        "mean_entropy": 3.1879427433013916
+      },
+      {
+        "seed": 425806,
+        "correct": false,
+        "answer": "90",
+        "T": 9,
+        "confidence": 0.11174105852842331,
+        "mean_entropy": 2.7478995323181152
+      },
+      {
+        "seed": 425807,
+        "correct": false,
+        "answer": "190",
+        "T": 14,
+        "confidence": 0.006492900662124157,
+        "mean_entropy": 3.639197826385498
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "57",
+      "T": 9,
+      "confidence": 0.08809960633516312
+    }
+  },
+  {
+    "idx": 59,
+    "gt_answer": "187",
+    "rollouts": [
+      {
+        "seed": 425900,
+        "correct": false,
+        "answer": "33",
+        "T": 5,
+        "confidence": 0.04231308400630951,
+        "mean_entropy": 2.217658519744873
+      },
+      {
+        "seed": 425901,
+        "correct": false,
+        "answer": "104182",
+        "T": 5,
+        "confidence": 0.07917024940252304,
+        "mean_entropy": 3.3180699348449707
+      },
+      {
+        "seed": 425902,
+        "correct": false,
+        "answer": "1146",
+        "T": 5,
+        "confidence": 0.0305219367146492,
+        "mean_entropy": 2.0756301879882812
+      },
+      {
+        "seed": 425903,
+        "correct": false,
+        "answer": "10396",
+        "T": 5,
+        "confidence": 0.05644851550459862,
+        "mean_entropy": 4.193848609924316
+      },
+      {
+        "seed": 425904,
+        "correct": false,
+        "answer": "67",
+        "T": 3,
+        "confidence": 0.2265251874923706,
+        "mean_entropy": 1.0594347715377808
+      },
+      {
+        "seed": 425905,
+        "correct": false,
+        "answer": "130",
+        "T": 5,
+        "confidence": 0.22043098509311676,
+        "mean_entropy": 2.620194911956787
+      },
+      {
+        "seed": 425906,
+        "correct": false,
+        "answer": "113",
+        "T": 4,
+        "confidence": 0.19349516928195953,
+        "mean_entropy": 2.4014194011688232
+      },
+      {
+        "seed": 425907,
+        "correct": false,
+        "answer": "286",
+        "T": 5,
+        "confidence": 0.04388279467821121,
+        "mean_entropy": 2.863927125930786
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "187",
+      "T": 5,
+      "confidence": 0.9816369414329529
+    }
+  },
+  {
+    "idx": 60,
+    "gt_answer": "17",
+    "rollouts": [
+      {
+        "seed": 426000,
+        "correct": false,
+        "answer": "199",
+        "T": 9,
+        "confidence": 0.039121922105550766,
+        "mean_entropy": 3.0042505264282227
+      },
+      {
+        "seed": 426001,
+        "correct": false,
+        "answer": "87",
+        "T": 7,
+        "confidence": 0.8462381958961487,
+        "mean_entropy": 2.498361110687256
+      },
+      {
+        "seed": 426002,
+        "correct": false,
+        "answer": "611",
+        "T": 10,
+        "confidence": 0.015647042542696,
+        "mean_entropy": 3.235236406326294
+      },
+      {
+        "seed": 426003,
+        "correct": false,
+        "answer": "255",
+        "T": 11,
+        "confidence": 0.021685054525732994,
+        "mean_entropy": 2.6266424655914307
+      },
+      {
+        "seed": 426004,
+        "correct": false,
+        "answer": "15",
+        "T": 6,
+        "confidence": 0.06425197422504425,
+        "mean_entropy": 2.958083152770996
+      },
+      {
+        "seed": 426005,
+        "correct": true,
+        "answer": "17",
+        "T": 7,
+        "confidence": 0.04152468219399452,
+        "mean_entropy": 2.775928258895874
+      },
+      {
+        "seed": 426006,
+        "correct": false,
+        "answer": "23",
+        "T": 9,
+        "confidence": 0.09609478712081909,
+        "mean_entropy": 3.5097320079803467
+      },
+      {
+        "seed": 426007,
+        "correct": false,
+        "answer": "66",
+        "T": 8,
+        "confidence": 0.05110103264451027,
+        "mean_entropy": 2.6837270259857178
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "17",
+      "T": 8,
+      "confidence": 0.9700201153755188
+    }
+  },
+  {
+    "idx": 61,
+    "gt_answer": "1430",
+    "rollouts": [
+      {
+        "seed": 426100,
+        "correct": false,
+        "answer": "61,6",
+        "T": 9,
+        "confidence": 0.01600930467247963,
+        "mean_entropy": 2.8692502975463867
+      },
+      {
+        "seed": 426101,
+        "correct": false,
+        "answer": "13333",
+        "T": 12,
+        "confidence": 0.0055596050806343555,
+        "mean_entropy": 3.4590816497802734
+      },
+      {
+        "seed": 426102,
+        "correct": false,
+        "answer": "16244544",
+        "T": 13,
+        "confidence": 0.008433404378592968,
+        "mean_entropy": 3.41910982131958
+      },
+      {
+        "seed": 426103,
+        "correct": false,
+        "answer": "466",
+        "T": 5,
+        "confidence": 0.03775981813669205,
+        "mean_entropy": 3.3770039081573486
+      },
+      {
+        "seed": 426104,
+        "correct": false,
+        "answer": "23600.",
+        "T": 7,
+        "confidence": 0.023490117862820625,
+        "mean_entropy": 4.247508525848389
+      },
+      {
+        "seed": 426105,
+        "correct": false,
+        "answer": "-600",
+        "T": 5,
+        "confidence": 0.041774194687604904,
+        "mean_entropy": 2.4936912059783936
+      },
+      {
+        "seed": 426106,
+        "correct": false,
+        "answer": "880",
+        "T": 5,
+        "confidence": 0.5742276310920715,
+        "mean_entropy": 3.353243350982666
+      },
+      {
+        "seed": 426107,
+        "correct": false,
+        "answer": "13,800",
+        "T": 3,
+        "confidence": 0.06424015760421753,
+        "mean_entropy": 3.5953166484832764
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "1430",
+      "T": 8,
+      "confidence": 0.784227728843689
+    }
+  },
+  {
+    "idx": 62,
+    "gt_answer": "25000",
+    "rollouts": [
+      {
+        "seed": 426200,
+        "correct": false,
+        "answer": "38410,726",
+        "T": 22,
+        "confidence": 0.0030084934551268816,
+        "mean_entropy": 3.7957868576049805
+      },
+      {
+        "seed": 426201,
+        "correct": false,
+        "answer": "9094.25",
+        "T": 14,
+        "confidence": 0.004930959083139896,
+        "mean_entropy": 3.729013681411743
+      },
+      {
+        "seed": 426202,
+        "correct": false,
+        "answer": "500",
+        "T": 3,
+        "confidence": 0.17567655444145203,
+        "mean_entropy": 2.7849738597869873
+      },
+      {
+        "seed": 426203,
+        "correct": false,
+        "answer": "1,300",
+        "T": 8,
+        "confidence": 0.17246274650096893,
+        "mean_entropy": 2.967998504638672
+      },
+      {
+        "seed": 426204,
+        "correct": false,
+        "answer": "33076630",
+        "T": 13,
+        "confidence": 0.02407076768577099,
+        "mean_entropy": 3.128356695175171
+      },
+      {
+        "seed": 426205,
+        "correct": false,
+        "answer": "37,100",
+        "T": 12,
+        "confidence": 0.012187161482870579,
+        "mean_entropy": 2.4641611576080322
+      },
+      {
+        "seed": 426206,
+        "correct": false,
+        "answer": "ax",
+        "T": 7,
+        "confidence": 0.07446262240409851,
+        "mean_entropy": 2.804600477218628
+      },
+      {
+        "seed": 426207,
+        "correct": false,
+        "answer": "232",
+        "T": 6,
+        "confidence": 0.0536821223795414,
+        "mean_entropy": 2.8769938945770264
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "57500",
+      "T": 9,
+      "confidence": 0.0126195652410388
+    }
+  },
+  {
+    "idx": 63,
+    "gt_answer": "1596",
+    "rollouts": [
+      {
+        "seed": 426300,
+        "correct": false,
+        "answer": "10",
+        "T": 5,
+        "confidence": 0.09374310821294785,
+        "mean_entropy": 2.6807448863983154
+      },
+      {
+        "seed": 426301,
+        "correct": false,
+        "answer": "39524",
+        "T": 11,
+        "confidence": 0.010961271822452545,
+        "mean_entropy": 2.998344659805298
+      },
+      {
+        "seed": 426302,
+        "correct": false,
+        "answer": "89063",
+        "T": 22,
+        "confidence": 0.0003313178021926433,
+        "mean_entropy": 4.029796600341797
+      },
+      {
+        "seed": 426303,
+        "correct": false,
+        "answer": "12508",
+        "T": 13,
+        "confidence": 0.007589173037558794,
+        "mean_entropy": 3.4803593158721924
+      },
+      {
+        "seed": 426304,
+        "correct": false,
+        "answer": "11550.6",
+        "T": 19,
+        "confidence": 0.0007556633790954947,
+        "mean_entropy": 3.018589735031128
+      },
+      {
+        "seed": 426305,
+        "correct": false,
+        "answer": "14",
+        "T": 16,
+        "confidence": 0.0015516335843130946,
+        "mean_entropy": 2.5661089420318604
+      },
+      {
+        "seed": 426306,
+        "correct": false,
+        "answer": "1500",
+        "T": 10,
+        "confidence": 0.027345025911927223,
+        "mean_entropy": 2.883176565170288
+      },
+      {
+        "seed": 426307,
+        "correct": false,
+        "answer": "1540",
+        "T": 10,
+        "confidence": 0.009798849932849407,
+        "mean_entropy": 2.7158827781677246
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "5746",
+      "T": 14,
+      "confidence": 0.0038622699212282896
+    }
+  },
+  {
+    "idx": 64,
+    "gt_answer": "300",
+    "rollouts": [
+      {
+        "seed": 426400,
+        "correct": false,
+        "answer": "127208",
+        "T": 6,
+        "confidence": 0.05510006844997406,
+        "mean_entropy": 3.416285276412964
+      },
+      {
+        "seed": 426401,
+        "correct": false,
+        "answer": "34",
+        "T": 6,
+        "confidence": 0.12376681715250015,
+        "mean_entropy": 2.1341490745544434
+      },
+      {
+        "seed": 426402,
+        "correct": false,
+        "answer": "783",
+        "T": 5,
+        "confidence": 0.09514361619949341,
+        "mean_entropy": 3.1430203914642334
+      },
+      {
+        "seed": 426403,
+        "correct": false,
+        "answer": "20.",
+        "T": 4,
+        "confidence": 0.05734013020992279,
+        "mean_entropy": 2.613110303878784
+      },
+      {
+        "seed": 426404,
+        "correct": false,
+        "answer": "42.6",
+        "T": 5,
+        "confidence": 0.0777977928519249,
+        "mean_entropy": 2.186936855316162
+      },
+      {
+        "seed": 426405,
+        "correct": false,
+        "answer": "1000",
+        "T": 5,
+        "confidence": 0.05253858491778374,
+        "mean_entropy": 2.783904552459717
+      },
+      {
+        "seed": 426406,
+        "correct": false,
+        "answer": "35",
+        "T": 3,
+        "confidence": 0.1159508228302002,
+        "mean_entropy": 1.5999048948287964
+      },
+      {
+        "seed": 426407,
+        "correct": false,
+        "answer": "918",
+        "T": 5,
+        "confidence": 0.09883014112710953,
+        "mean_entropy": 2.89536714553833
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "36",
+      "T": 5,
+      "confidence": 0.19269956648349762
+    }
+  },
+  {
+    "idx": 65,
+    "gt_answer": "36",
+    "rollouts": [
+      {
+        "seed": 426500,
+        "correct": false,
+        "answer": "oxid",
+        "T": 8,
+        "confidence": 0.027968693524599075,
+        "mean_entropy": 3.057068347930908
+      },
+      {
+        "seed": 426501,
+        "correct": false,
+        "answer": "7362",
+        "T": 13,
+        "confidence": 0.0031339311972260475,
+        "mean_entropy": 2.843376636505127
+      },
+      {
+        "seed": 426502,
+        "correct": false,
+        "answer": "34,200",
+        "T": 11,
+        "confidence": 0.013709379360079765,
+        "mean_entropy": 2.8847532272338867
+      },
+      {
+        "seed": 426503,
+        "correct": false,
+        "answer": "14,000000",
+        "T": 128,
+        "confidence": 1.766456193763588e-06,
+        "mean_entropy": 1.8042727708816528
+      },
+      {
+        "seed": 426504,
+        "correct": false,
+        "answer": "41,245",
+        "T": 12,
+        "confidence": 0.005805925000458956,
+        "mean_entropy": 2.9143173694610596
+      },
+      {
+        "seed": 426505,
+        "correct": false,
+        "answer": "10",
+        "T": 5,
+        "confidence": 0.11411780118942261,
+        "mean_entropy": 3.5942893028259277
+      },
+      {
+        "seed": 426506,
+        "correct": false,
+        "answer": "30",
+        "T": 10,
+        "confidence": 0.014491595327854156,
+        "mean_entropy": 2.674598217010498
+      },
+      {
+        "seed": 426507,
+        "correct": false,
+        "answer": "34",
+        "T": 6,
+        "confidence": 0.038439784198999405,
+        "mean_entropy": 3.5254013538360596
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "36",
+      "T": 8,
+      "confidence": 0.5204411745071411
+    }
+  },
+  {
+    "idx": 66,
+    "gt_answer": "48",
+    "rollouts": [
+      {
+        "seed": 426600,
+        "correct": false,
+        "answer": "262",
+        "T": 12,
+        "confidence": 0.07204063981771469,
+        "mean_entropy": 3.3545970916748047
+      },
+      {
+        "seed": 426601,
+        "correct": false,
+        "answer": "120",
+        "T": 6,
+        "confidence": 0.028861137107014656,
+        "mean_entropy": 3.0561225414276123
+      },
+      {
+        "seed": 426602,
+        "correct": false,
+        "answer": "120",
+        "T": 11,
+        "confidence": 0.021015413105487823,
+        "mean_entropy": 2.156219482421875
+      },
+      {
+        "seed": 426603,
+        "correct": false,
+        "answer": "84",
+        "T": 7,
+        "confidence": 0.028061935678124428,
+        "mean_entropy": 2.831723928451538
+      },
+      {
+        "seed": 426604,
+        "correct": false,
+        "answer": "180",
+        "T": 3,
+        "confidence": 0.4730437695980072,
+        "mean_entropy": 3.399601697921753
+      },
+      {
+        "seed": 426605,
+        "correct": false,
+        "answer": "160",
+        "T": 5,
+        "confidence": 0.47761422395706177,
+        "mean_entropy": 3.2549896240234375
+      },
+      {
+        "seed": 426606,
+        "correct": false,
+        "answer": "08.1",
+        "T": 14,
+        "confidence": 0.02226202003657818,
+        "mean_entropy": 3.376981258392334
+      },
+      {
+        "seed": 426607,
+        "correct": false,
+        "answer": "180",
+        "T": 6,
+        "confidence": 0.03584746643900871,
+        "mean_entropy": 2.387563705444336
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "28",
+      "T": 8,
+      "confidence": 0.2722468376159668
+    }
+  },
+  {
+    "idx": 67,
+    "gt_answer": "595",
+    "rollouts": [
+      {
+        "seed": 426700,
+        "correct": false,
+        "answer": "457",
+        "T": 5,
+        "confidence": 0.029470888897776604,
+        "mean_entropy": 3.1422054767608643
+      },
+      {
+        "seed": 426701,
+        "correct": false,
+        "answer": "135",
+        "T": 7,
+        "confidence": 0.06224987655878067,
+        "mean_entropy": 2.690178394317627
+      },
+      {
+        "seed": 426702,
+        "correct": false,
+        "answer": "505177",
+        "T": 8,
+        "confidence": 0.03766295313835144,
+        "mean_entropy": 3.278925895690918
+      },
+      {
+        "seed": 426703,
+        "correct": false,
+        "answer": "396",
+        "T": 8,
+        "confidence": 0.030719256028532982,
+        "mean_entropy": 2.205406665802002
+      },
+      {
+        "seed": 426704,
+        "correct": false,
+        "answer": "101531",
+        "T": 10,
+        "confidence": 0.01760035566985607,
+        "mean_entropy": 2.9674785137176514
+      },
+      {
+        "seed": 426705,
+        "correct": false,
+        "answer": "996",
+        "T": 9,
+        "confidence": 0.02405107393860817,
+        "mean_entropy": 2.8409621715545654
+      },
+      {
+        "seed": 426706,
+        "correct": false,
+        "answer": "241",
+        "T": 5,
+        "confidence": 0.04210665076971054,
+        "mean_entropy": 2.901792049407959
+      },
+      {
+        "seed": 426707,
+        "correct": false,
+        "answer": "102731",
+        "T": 9,
+        "confidence": 0.027332091704010963,
+        "mean_entropy": 3.066274642944336
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "585",
+      "T": 7,
+      "confidence": 0.03753487020730972
+    }
+  },
+  {
+    "idx": 68,
+    "gt_answer": "36",
+    "rollouts": [
+      {
+        "seed": 426800,
+        "correct": false,
+        "answer": "145",
+        "T": 6,
+        "confidence": 0.24634340405464172,
+        "mean_entropy": 2.957383155822754
+      },
+      {
+        "seed": 426801,
+        "correct": false,
+        "answer": "126",
+        "T": 5,
+        "confidence": 0.08756343275308609,
+        "mean_entropy": 2.277164936065674
+      },
+      {
+        "seed": 426802,
+        "correct": false,
+        "answer": "69",
+        "T": 5,
+        "confidence": 0.05307639017701149,
+        "mean_entropy": 3.8372364044189453
+      },
+      {
+        "seed": 426803,
+        "correct": false,
+        "answer": "\ufffd",
+        "T": 9,
+        "confidence": 0.010158120654523373,
+        "mean_entropy": 3.214792013168335
+      },
+      {
+        "seed": 426804,
+        "correct": false,
+        "answer": "250",
+        "T": 3,
+        "confidence": 0.11050809919834137,
+        "mean_entropy": 2.89970326423645
+      },
+      {
+        "seed": 426805,
+        "correct": false,
+        "answer": "27677",
+        "T": 9,
+        "confidence": 0.023150192573666573,
+        "mean_entropy": 2.8296380043029785
+      },
+      {
+        "seed": 426806,
+        "correct": false,
+        "answer": "1,600,000",
+        "T": 21,
+        "confidence": 0.00133611005730927,
+        "mean_entropy": 3.2065577507019043
+      },
+      {
+        "seed": 426807,
+        "correct": false,
+        "answer": "188",
+        "T": 14,
+        "confidence": 0.006444346625357866,
+        "mean_entropy": 3.584376096725464
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "36",
+      "T": 5,
+      "confidence": 0.7647976279258728
+    }
+  },
+  {
+    "idx": 69,
+    "gt_answer": "60",
+    "rollouts": [
+      {
+        "seed": 426900,
+        "correct": false,
+        "answer": "-0.21",
+        "T": 5,
+        "confidence": 0.4717317819595337,
+        "mean_entropy": 2.606112003326416
+      },
+      {
+        "seed": 426901,
+        "correct": false,
+        "answer": "54",
+        "T": 7,
+        "confidence": 0.03609902411699295,
+        "mean_entropy": 2.839693784713745
+      },
+      {
+        "seed": 426902,
+        "correct": true,
+        "answer": "60",
+        "T": 5,
+        "confidence": 0.18797354400157928,
+        "mean_entropy": 2.6404194831848145
+      },
+      {
+        "seed": 426903,
+        "correct": false,
+        "answer": "98",
+        "T": 4,
+        "confidence": 0.5522527098655701,
+        "mean_entropy": 2.650484561920166
+      },
+      {
+        "seed": 426904,
+        "correct": false,
+        "answer": "700",
+        "T": 2,
+        "confidence": 0.43318936228752136,
+        "mean_entropy": 0.7360466718673706
+      },
+      {
+        "seed": 426905,
+        "correct": false,
+        "answer": "301",
+        "T": 4,
+        "confidence": 0.12998662889003754,
+        "mean_entropy": 3.0148394107818604
+      },
+      {
+        "seed": 426906,
+        "correct": false,
+        "answer": "0",
+        "T": 5,
+        "confidence": 0.15647821128368378,
+        "mean_entropy": 1.0405701398849487
+      },
+      {
+        "seed": 426907,
+        "correct": false,
+        "answer": "2,983",
+        "T": 8,
+        "confidence": 0.027943186461925507,
+        "mean_entropy": 2.8958544731140137
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "60",
+      "T": 5,
+      "confidence": 0.9146584272384644
+    }
+  },
+  {
+    "idx": 70,
+    "gt_answer": "7425",
+    "rollouts": [
+      {
+        "seed": 427000,
+        "correct": false,
+        "answer": "526",
+        "T": 14,
+        "confidence": 0.0070115262642502785,
+        "mean_entropy": 2.8810458183288574
+      },
+      {
+        "seed": 427001,
+        "correct": false,
+        "answer": "785129460",
+        "T": 14,
+        "confidence": 0.005203855223953724,
+        "mean_entropy": 3.8827240467071533
+      },
+      {
+        "seed": 427002,
+        "correct": false,
+        "answer": "21780000",
+        "T": 29,
+        "confidence": 0.00015604008513037115,
+        "mean_entropy": 3.807492256164551
+      },
+      {
+        "seed": 427003,
+        "correct": false,
+        "answer": "44780",
+        "T": 10,
+        "confidence": 0.010136385448276997,
+        "mean_entropy": 3.2838664054870605
+      },
+      {
+        "seed": 427004,
+        "correct": false,
+        "answer": "210175",
+        "T": 7,
+        "confidence": 0.07314587384462357,
+        "mean_entropy": 3.6358084678649902
+      },
+      {
+        "seed": 427005,
+        "correct": false,
+        "answer": "980157",
+        "T": 11,
+        "confidence": 0.10567861795425415,
+        "mean_entropy": 4.60338020324707
+      },
+      {
+        "seed": 427006,
+        "correct": false,
+        "answer": "55015",
+        "T": 11,
+        "confidence": 0.010248505510389805,
+        "mean_entropy": 3.275305986404419
+      },
+      {
+        "seed": 427007,
+        "correct": false,
+        "answer": "615",
+        "T": 6,
+        "confidence": 0.10155829787254333,
+        "mean_entropy": 3.1172378063201904
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "7875",
+      "T": 9,
+      "confidence": 0.13731323182582855
+    }
+  },
+  {
+    "idx": 71,
+    "gt_answer": "60",
+    "rollouts": [
+      {
+        "seed": 427100,
+        "correct": false,
+        "answer": "2400",
+        "T": 5,
+        "confidence": 0.23439921438694,
+        "mean_entropy": 3.534851551055908
+      },
+      {
+        "seed": 427101,
+        "correct": false,
+        "answer": "80",
+        "T": 6,
+        "confidence": 0.8177118301391602,
+        "mean_entropy": 3.00337815284729
+      },
+      {
+        "seed": 427102,
+        "correct": false,
+        "answer": "201",
+        "T": 5,
+        "confidence": 0.21919985115528107,
+        "mean_entropy": 2.716909170150757
+      },
+      {
+        "seed": 427103,
+        "correct": false,
+        "answer": "7",
+        "T": 6,
+        "confidence": 0.7918186783790588,
+        "mean_entropy": 2.8915812969207764
+      },
+      {
+        "seed": 427104,
+        "correct": false,
+        "answer": "244",
+        "T": 7,
+        "confidence": 0.02709141932427883,
+        "mean_entropy": 3.08636736869812
+      },
+      {
+        "seed": 427105,
+        "correct": false,
+        "answer": "33",
+        "T": 7,
+        "confidence": 0.9039092063903809,
+        "mean_entropy": 3.336589813232422
+      },
+      {
+        "seed": 427106,
+        "correct": false,
+        "answer": "300",
+        "T": 6,
+        "confidence": 0.9254038333892822,
+        "mean_entropy": 2.6060450077056885
+      },
+      {
+        "seed": 427107,
+        "correct": false,
+        "answer": "20",
+        "T": 5,
+        "confidence": 0.767781138420105,
+        "mean_entropy": 2.3126044273376465
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "60",
+      "T": 5,
+      "confidence": 0.9411252737045288
+    }
+  },
+  {
+    "idx": 72,
+    "gt_answer": "221",
+    "rollouts": [
+      {
+        "seed": 427200,
+        "correct": false,
+        "answer": "180",
+        "T": 5,
+        "confidence": 0.05070877447724342,
+        "mean_entropy": 2.349109172821045
+      },
+      {
+        "seed": 427201,
+        "correct": false,
+        "answer": "409.69",
+        "T": 8,
+        "confidence": 0.031080834567546844,
+        "mean_entropy": 3.3554282188415527
+      },
+      {
+        "seed": 427202,
+        "correct": false,
+        "answer": "840",
+        "T": 7,
+        "confidence": 0.03431851044297218,
+        "mean_entropy": 3.669222593307495
+      },
+      {
+        "seed": 427203,
+        "correct": false,
+        "answer": "90.51",
+        "T": 8,
+        "confidence": 0.04891657829284668,
+        "mean_entropy": 2.5088093280792236
+      },
+      {
+        "seed": 427204,
+        "correct": false,
+        "answer": "1013.14",
+        "T": 6,
+        "confidence": 0.026860373094677925,
+        "mean_entropy": 3.494516611099243
+      },
+      {
+        "seed": 427205,
+        "correct": false,
+        "answer": "181954",
+        "T": 7,
+        "confidence": 0.12246102839708328,
+        "mean_entropy": 3.421461820602417
+      },
+      {
+        "seed": 427206,
+        "correct": false,
+        "answer": "20010080",
+        "T": 8,
+        "confidence": 0.046080902218818665,
+        "mean_entropy": 1.8829240798950195
+      },
+      {
+        "seed": 427207,
+        "correct": false,
+        "answer": "139223",
+        "T": 5,
+        "confidence": 0.02620466984808445,
+        "mean_entropy": 1.974086046218872
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "221",
+      "T": 7,
+      "confidence": 0.9126328229904175
+    }
+  },
+  {
+    "idx": 73,
+    "gt_answer": "255",
+    "rollouts": [
+      {
+        "seed": 427300,
+        "correct": false,
+        "answer": "114.5",
+        "T": 8,
+        "confidence": 0.014461715705692768,
+        "mean_entropy": 2.90740966796875
+      },
+      {
+        "seed": 427301,
+        "correct": false,
+        "answer": "60.13",
+        "T": 12,
+        "confidence": 0.011597542092204094,
+        "mean_entropy": 2.9261605739593506
+      },
+      {
+        "seed": 427302,
+        "correct": false,
+        "answer": "1.31",
+        "T": 13,
+        "confidence": 0.0035629626363515854,
+        "mean_entropy": 4.000578880310059
+      },
+      {
+        "seed": 427303,
+        "correct": false,
+        "answer": "1429.46",
+        "T": 7,
+        "confidence": 0.031069433316588402,
+        "mean_entropy": 3.773336887359619
+      },
+      {
+        "seed": 427304,
+        "correct": false,
+        "answer": "913",
+        "T": 7,
+        "confidence": 0.06653229147195816,
+        "mean_entropy": 3.0710225105285645
+      },
+      {
+        "seed": 427305,
+        "correct": false,
+        "answer": "23,865",
+        "T": 16,
+        "confidence": 0.0026275620330125093,
+        "mean_entropy": 3.47049617767334
+      },
+      {
+        "seed": 427306,
+        "correct": false,
+        "answer": "273",
+        "T": 12,
+        "confidence": 0.004729998763650656,
+        "mean_entropy": 3.4399149417877197
+      },
+      {
+        "seed": 427307,
+        "correct": false,
+        "answer": "20255.3",
+        "T": 17,
+        "confidence": 0.0015448012854903936,
+        "mean_entropy": 3.8630056381225586
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "153",
+      "T": 9,
+      "confidence": 0.06397875398397446
+    }
+  },
+  {
+    "idx": 74,
+    "gt_answer": "88",
+    "rollouts": [
+      {
+        "seed": 427400,
+        "correct": false,
+        "answer": "46",
+        "T": 8,
+        "confidence": 0.01869579777121544,
+        "mean_entropy": 3.6675620079040527
+      },
+      {
+        "seed": 427401,
+        "correct": false,
+        "answer": "61,834",
+        "T": 30,
+        "confidence": 0.00022387142234947532,
+        "mean_entropy": 3.8031914234161377
+      },
+      {
+        "seed": 427402,
+        "correct": false,
+        "answer": "7.454",
+        "T": 14,
+        "confidence": 0.0032765388023108244,
+        "mean_entropy": 3.2368533611297607
+      },
+      {
+        "seed": 427403,
+        "correct": false,
+        "answer": "64165",
+        "T": 34,
+        "confidence": 5.9681373386410996e-05,
+        "mean_entropy": 3.331754684448242
+      },
+      {
+        "seed": 427404,
+        "correct": false,
+        "answer": "12,096",
+        "T": 8,
+        "confidence": 0.022169167175889015,
+        "mean_entropy": 3.1151065826416016
+      },
+      {
+        "seed": 427405,
+        "correct": false,
+        "answer": "62,810",
+        "T": 18,
+        "confidence": 0.0010363019537180662,
+        "mean_entropy": 3.723888397216797
+      },
+      {
+        "seed": 427406,
+        "correct": false,
+        "answer": "31148",
+        "T": 28,
+        "confidence": 0.00037476379657164216,
+        "mean_entropy": 3.3465657234191895
+      },
+      {
+        "seed": 427407,
+        "correct": false,
+        "answer": "946",
+        "T": 11,
+        "confidence": 0.005726042669266462,
+        "mean_entropy": 3.171245813369751
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "95.82",
+      "T": 14,
+      "confidence": 0.005217988975346088
+    }
+  },
+  {
+    "idx": 75,
+    "gt_answer": "60",
+    "rollouts": [
+      {
+        "seed": 427500,
+        "correct": false,
+        "answer": "13.083",
+        "T": 7,
+        "confidence": 0.059635601937770844,
+        "mean_entropy": 2.472686290740967
+      },
+      {
+        "seed": 427501,
+        "correct": false,
+        "answer": "9600",
+        "T": 12,
+        "confidence": 0.011810170486569405,
+        "mean_entropy": 3.3934853076934814
+      },
+      {
+        "seed": 427502,
+        "correct": false,
+        "answer": "20617.44",
+        "T": 8,
+        "confidence": 0.05215579643845558,
+        "mean_entropy": 3.0173091888427734
+      },
+      {
+        "seed": 427503,
+        "correct": false,
+        "answer": "900000",
+        "T": 14,
+        "confidence": 0.08390379697084427,
+        "mean_entropy": 3.21079683303833
+      },
+      {
+        "seed": 427504,
+        "correct": false,
+        "answer": "-16",
+        "T": 12,
+        "confidence": 0.013086065649986267,
+        "mean_entropy": 2.7416155338287354
+      },
+      {
+        "seed": 427505,
+        "correct": false,
+        "answer": "32495.60",
+        "T": 15,
+        "confidence": 0.0018338548252359033,
+        "mean_entropy": 3.9502902030944824
+      },
+      {
+        "seed": 427506,
+        "correct": false,
+        "answer": "796,000",
+        "T": 15,
+        "confidence": 0.0027277700137346983,
+        "mean_entropy": 3.1347126960754395
+      },
+      {
+        "seed": 427507,
+        "correct": false,
+        "answer": "48",
+        "T": 8,
+        "confidence": 0.03892397880554199,
+        "mean_entropy": 2.956737995147705
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "7.5",
+      "T": 12,
+      "confidence": 0.8535088896751404
+    }
+  },
+  {
+    "idx": 76,
+    "gt_answer": "5",
+    "rollouts": [
+      {
+        "seed": 427600,
+        "correct": false,
+        "answer": "420",
+        "T": 9,
+        "confidence": 0.01526824664324522,
+        "mean_entropy": 3.181610345840454
+      },
+      {
+        "seed": 427601,
+        "correct": false,
+        "answer": "129471",
+        "T": 15,
+        "confidence": 0.003610610729083419,
+        "mean_entropy": 3.3440701961517334
+      },
+      {
+        "seed": 427602,
+        "correct": false,
+        "answer": "29",
+        "T": 9,
+        "confidence": 0.019060499966144562,
+        "mean_entropy": 3.124229669570923
+      },
+      {
+        "seed": 427603,
+        "correct": false,
+        "answer": "615",
+        "T": 14,
+        "confidence": 0.0019012920092791319,
+        "mean_entropy": 3.3270413875579834
+      },
+      {
+        "seed": 427604,
+        "correct": false,
+        "answer": "6110",
+        "T": 16,
+        "confidence": 0.004533483646810055,
+        "mean_entropy": 2.622673511505127
+      },
+      {
+        "seed": 427605,
+        "correct": false,
+        "answer": "294",
+        "T": 12,
+        "confidence": 0.009682082571089268,
+        "mean_entropy": 2.6408183574676514
+      },
+      {
+        "seed": 427606,
+        "correct": false,
+        "answer": "128990",
+        "T": 16,
+        "confidence": 0.007967635057866573,
+        "mean_entropy": 3.7519006729125977
+      },
+      {
+        "seed": 427607,
+        "correct": false,
+        "answer": "2739",
+        "T": 10,
+        "confidence": 0.026326222345232964,
+        "mean_entropy": 3.288344621658325
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "8",
+      "T": 11,
+      "confidence": 0.0064941588789224625
+    }
+  },
+  {
+    "idx": 77,
+    "gt_answer": "100",
+    "rollouts": [
+      {
+        "seed": 427700,
+        "correct": false,
+        "answer": "-220",
+        "T": 7,
+        "confidence": 0.05782037600874901,
+        "mean_entropy": 2.8424010276794434
+      },
+      {
+        "seed": 427701,
+        "correct": false,
+        "answer": "179580",
+        "T": 14,
+        "confidence": 0.002410433953627944,
+        "mean_entropy": 3.4934277534484863
+      },
+      {
+        "seed": 427702,
+        "correct": false,
+        "answer": "1186.",
+        "T": 10,
+        "confidence": 0.00512290233746171,
+        "mean_entropy": 3.4107666015625
+      },
+      {
+        "seed": 427703,
+        "correct": false,
+        "answer": "88",
+        "T": 3,
+        "confidence": 0.167162224650383,
+        "mean_entropy": 2.5827462673187256
+      },
+      {
+        "seed": 427704,
+        "correct": false,
+        "answer": "500",
+        "T": 5,
+        "confidence": 0.053135182708501816,
+        "mean_entropy": 2.0365309715270996
+      },
+      {
+        "seed": 427705,
+        "correct": false,
+        "answer": "0",
+        "T": 8,
+        "confidence": 0.07204411178827286,
+        "mean_entropy": 1.6783411502838135
+      },
+      {
+        "seed": 427706,
+        "correct": false,
+        "answer": "80,425,000",
+        "T": 11,
+        "confidence": 0.026715194806456566,
+        "mean_entropy": 3.7606475353240967
+      },
+      {
+        "seed": 427707,
+        "correct": false,
+        "answer": "60",
+        "T": 5,
+        "confidence": 0.050153881311416626,
+        "mean_entropy": 2.2302470207214355
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "100",
+      "T": 7,
+      "confidence": 0.9589269757270813
+    }
+  },
+  {
+    "idx": 78,
+    "gt_answer": "6",
+    "rollouts": [
+      {
+        "seed": 427800,
+        "correct": false,
+        "answer": "6.30",
+        "T": 11,
+        "confidence": 0.045208413153886795,
+        "mean_entropy": 2.967219591140747
+      },
+      {
+        "seed": 427801,
+        "correct": false,
+        "answer": "5.05",
+        "T": 10,
+        "confidence": 0.019485006108880043,
+        "mean_entropy": 3.3076558113098145
+      },
+      {
+        "seed": 427802,
+        "correct": false,
+        "answer": "~18.05",
+        "T": 9,
+        "confidence": 0.012157382443547249,
+        "mean_entropy": 3.405972480773926
+      },
+      {
+        "seed": 427803,
+        "correct": false,
+        "answer": "27.78",
+        "T": 9,
+        "confidence": 0.018779141828417778,
+        "mean_entropy": 3.2036070823669434
+      },
+      {
+        "seed": 427804,
+        "correct": false,
+        "answer": "4.21",
+        "T": 11,
+        "confidence": 0.006296316161751747,
+        "mean_entropy": 2.3409993648529053
+      },
+      {
+        "seed": 427805,
+        "correct": true,
+        "answer": "6",
+        "T": 7,
+        "confidence": 0.03923135995864868,
+        "mean_entropy": 1.4372459650039673
+      },
+      {
+        "seed": 427806,
+        "correct": false,
+        "answer": "10",
+        "T": 3,
+        "confidence": 0.16372667253017426,
+        "mean_entropy": 1.988463282585144
+      },
+      {
+        "seed": 427807,
+        "correct": false,
+        "answer": "20.03",
+        "T": 13,
+        "confidence": 0.03600617125630379,
+        "mean_entropy": 2.7075705528259277
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "1.5",
+      "T": 14,
+      "confidence": 0.011262159794569016
+    }
+  },
+  {
+    "idx": 79,
+    "gt_answer": "70",
+    "rollouts": [
+      {
+        "seed": 427900,
+        "correct": false,
+        "answer": "96.80",
+        "T": 7,
+        "confidence": 0.024601545184850693,
+        "mean_entropy": 2.8414599895477295
+      },
+      {
+        "seed": 427901,
+        "correct": true,
+        "answer": "70",
+        "T": 5,
+        "confidence": 0.9665271639823914,
+        "mean_entropy": 2.433342695236206
+      },
+      {
+        "seed": 427902,
+        "correct": true,
+        "answer": "70",
+        "T": 5,
+        "confidence": 0.37802499532699585,
+        "mean_entropy": 2.2725608348846436
+      },
+      {
+        "seed": 427903,
+        "correct": false,
+        "answer": "30",
+        "T": 3,
+        "confidence": 0.5734463930130005,
+        "mean_entropy": 1.9203895330429077
+      },
+      {
+        "seed": 427904,
+        "correct": true,
+        "answer": "70",
+        "T": 3,
+        "confidence": 0.4900539815425873,
+        "mean_entropy": 1.9522515535354614
+      },
+      {
+        "seed": 427905,
+        "correct": false,
+        "answer": "384",
+        "T": 7,
+        "confidence": 0.021456260234117508,
+        "mean_entropy": 1.735921859741211
+      },
+      {
+        "seed": 427906,
+        "correct": false,
+        "answer": "198",
+        "T": 5,
+        "confidence": 0.1312745362520218,
+        "mean_entropy": 2.759098529815674
+      },
+      {
+        "seed": 427907,
+        "correct": true,
+        "answer": "70",
+        "T": 5,
+        "confidence": 0.9245562553405762,
+        "mean_entropy": 2.6021175384521484
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "70",
+      "T": 5,
+      "confidence": 0.9713932275772095
+    }
+  },
+  {
+    "idx": 80,
+    "gt_answer": "10",
+    "rollouts": [
+      {
+        "seed": 428000,
+        "correct": false,
+        "answer": "15",
+        "T": 5,
+        "confidence": 0.47465670108795166,
+        "mean_entropy": 3.1611390113830566
+      },
+      {
+        "seed": 428001,
+        "correct": false,
+        "answer": "828330",
+        "T": 7,
+        "confidence": 0.08072689920663834,
+        "mean_entropy": 3.368973970413208
+      },
+      {
+        "seed": 428002,
+        "correct": false,
+        "answer": "807,150",
+        "T": 11,
+        "confidence": 0.01904795505106449,
+        "mean_entropy": 3.4372076988220215
+      },
+      {
+        "seed": 428003,
+        "correct": false,
+        "answer": "5",
+        "T": 4,
+        "confidence": 0.23522494733333588,
+        "mean_entropy": 2.8228864669799805
+      },
+      {
+        "seed": 428004,
+        "correct": false,
+        "answer": "12",
+        "T": 8,
+        "confidence": 0.10241827368736267,
+        "mean_entropy": 2.382894992828369
+      },
+      {
+        "seed": 428005,
+        "correct": false,
+        "answer": "24",
+        "T": 11,
+        "confidence": 0.0096450699493289,
+        "mean_entropy": 3.13069224357605
+      },
+      {
+        "seed": 428006,
+        "correct": false,
+        "answer": "170",
+        "T": 5,
+        "confidence": 0.24560093879699707,
+        "mean_entropy": 2.641479015350342
+      },
+      {
+        "seed": 428007,
+        "correct": false,
+        "answer": "0.993",
+        "T": 10,
+        "confidence": 0.01005962211638689,
+        "mean_entropy": 3.1488091945648193
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "14",
+      "T": 7,
+      "confidence": 0.941005527973175
+    }
+  },
+  {
+    "idx": 81,
+    "gt_answer": "17",
+    "rollouts": [
+      {
+        "seed": 428100,
+        "correct": false,
+        "answer": "88",
+        "T": 9,
+        "confidence": 0.05135549604892731,
+        "mean_entropy": 3.56252121925354
+      },
+      {
+        "seed": 428101,
+        "correct": true,
+        "answer": "17",
+        "T": 6,
+        "confidence": 0.2614113688468933,
+        "mean_entropy": 2.4798059463500977
+      },
+      {
+        "seed": 428102,
+        "correct": false,
+        "answer": "45",
+        "T": 6,
+        "confidence": 0.07366189360618591,
+        "mean_entropy": 2.6860828399658203
+      },
+      {
+        "seed": 428103,
+        "correct": false,
+        "answer": "84",
+        "T": 7,
+        "confidence": 0.018440822139382362,
+        "mean_entropy": 2.793659210205078
+      },
+      {
+        "seed": 428104,
+        "correct": false,
+        "answer": "14",
+        "T": 9,
+        "confidence": 0.012066829018294811,
+        "mean_entropy": 3.004857063293457
+      },
+      {
+        "seed": 428105,
+        "correct": false,
+        "answer": "57",
+        "T": 6,
+        "confidence": 0.036633964627981186,
+        "mean_entropy": 2.6001782417297363
+      },
+      {
+        "seed": 428106,
+        "correct": false,
+        "answer": "56",
+        "T": 5,
+        "confidence": 0.14594368636608124,
+        "mean_entropy": 2.0424394607543945
+      },
+      {
+        "seed": 428107,
+        "correct": false,
+        "answer": "334",
+        "T": 9,
+        "confidence": 0.016898689791560173,
+        "mean_entropy": 2.5690298080444336
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "17",
+      "T": 8,
+      "confidence": 0.9882290363311768
+    }
+  },
+  {
+    "idx": 82,
+    "gt_answer": "623",
+    "rollouts": [
+      {
+        "seed": 428200,
+        "correct": false,
+        "answer": "890",
+        "T": 5,
+        "confidence": 0.0498710572719574,
+        "mean_entropy": 3.7183361053466797
+      },
+      {
+        "seed": 428201,
+        "correct": false,
+        "answer": "428",
+        "T": 4,
+        "confidence": 0.09289054572582245,
+        "mean_entropy": 3.1614062786102295
+      },
+      {
+        "seed": 428202,
+        "correct": false,
+        "answer": "3333",
+        "T": 6,
+        "confidence": 0.9216209650039673,
+        "mean_entropy": 2.587930679321289
+      },
+      {
+        "seed": 428203,
+        "correct": false,
+        "answer": "33690",
+        "T": 7,
+        "confidence": 0.04556669294834137,
+        "mean_entropy": 3.839261770248413
+      },
+      {
+        "seed": 428204,
+        "correct": false,
+        "answer": "58524",
+        "T": 16,
+        "confidence": 0.003683009883388877,
+        "mean_entropy": 4.0788655281066895
+      },
+      {
+        "seed": 428205,
+        "correct": false,
+        "answer": "628",
+        "T": 10,
+        "confidence": 0.02276681363582611,
+        "mean_entropy": 2.574049711227417
+      },
+      {
+        "seed": 428206,
+        "correct": false,
+        "answer": "-762",
+        "T": 6,
+        "confidence": 0.04387079179286957,
+        "mean_entropy": 3.1171979904174805
+      },
+      {
+        "seed": 428207,
+        "correct": false,
+        "answer": "20352",
+        "T": 13,
+        "confidence": 0.003442357527092099,
+        "mean_entropy": 3.7543890476226807
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "633",
+      "T": 7,
+      "confidence": 0.09017683565616608
+    }
+  },
+  {
+    "idx": 83,
+    "gt_answer": "600",
+    "rollouts": [
+      {
+        "seed": 428300,
+        "correct": false,
+        "answer": "19",
+        "T": 5,
+        "confidence": 0.04260525479912758,
+        "mean_entropy": 2.660524606704712
+      },
+      {
+        "seed": 428301,
+        "correct": false,
+        "answer": "6600",
+        "T": 5,
+        "confidence": 0.05409230664372444,
+        "mean_entropy": 2.761157512664795
+      },
+      {
+        "seed": 428302,
+        "correct": false,
+        "answer": "2190",
+        "T": 5,
+        "confidence": 0.13267011940479279,
+        "mean_entropy": 2.8262505531311035
+      },
+      {
+        "seed": 428303,
+        "correct": false,
+        "answer": "615",
+        "T": 10,
+        "confidence": 0.0091893645003438,
+        "mean_entropy": 2.5280356407165527
+      },
+      {
+        "seed": 428304,
+        "correct": false,
+        "answer": "1940",
+        "T": 8,
+        "confidence": 0.013819207437336445,
+        "mean_entropy": 2.6572799682617188
+      },
+      {
+        "seed": 428305,
+        "correct": false,
+        "answer": "750",
+        "T": 5,
+        "confidence": 0.0588730052113533,
+        "mean_entropy": 2.0984787940979004
+      },
+      {
+        "seed": 428306,
+        "correct": false,
+        "answer": "333",
+        "T": 4,
+        "confidence": 0.3609415590763092,
+        "mean_entropy": 3.078176736831665
+      },
+      {
+        "seed": 428307,
+        "correct": false,
+        "answer": "30",
+        "T": 6,
+        "confidence": 0.07548978924751282,
+        "mean_entropy": 2.75134539604187
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "600",
+      "T": 5,
+      "confidence": 0.9780754446983337
+    }
+  },
+  {
+    "idx": 84,
+    "gt_answer": "15",
+    "rollouts": [
+      {
+        "seed": 428400,
+        "correct": false,
+        "answer": "0",
+        "T": 7,
+        "confidence": 0.0288641769438982,
+        "mean_entropy": 2.3294742107391357
+      },
+      {
+        "seed": 428401,
+        "correct": false,
+        "answer": "59",
+        "T": 7,
+        "confidence": 0.033920325338840485,
+        "mean_entropy": 3.035017251968384
+      },
+      {
+        "seed": 428402,
+        "correct": false,
+        "answer": "23",
+        "T": 4,
+        "confidence": 0.1151895597577095,
+        "mean_entropy": 2.5759527683258057
+      },
+      {
+        "seed": 428403,
+        "correct": false,
+        "answer": "181",
+        "T": 6,
+        "confidence": 0.08286720514297485,
+        "mean_entropy": 2.1977968215942383
+      },
+      {
+        "seed": 428404,
+        "correct": false,
+        "answer": "14",
+        "T": 4,
+        "confidence": 0.07833418995141983,
+        "mean_entropy": 2.935882091522217
+      },
+      {
+        "seed": 428405,
+        "correct": false,
+        "answer": "26",
+        "T": 3,
+        "confidence": 0.2587820291519165,
+        "mean_entropy": 2.6609151363372803
+      },
+      {
+        "seed": 428406,
+        "correct": true,
+        "answer": "15",
+        "T": 5,
+        "confidence": 0.051902689039707184,
+        "mean_entropy": 2.125701665878296
+      },
+      {
+        "seed": 428407,
+        "correct": false,
+        "answer": "4",
+        "T": 3,
+        "confidence": 0.6868782639503479,
+        "mean_entropy": 2.732097864151001
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "16",
+      "T": 7,
+      "confidence": 0.4704863429069519
+    }
+  },
+  {
+    "idx": 85,
+    "gt_answer": "44",
+    "rollouts": [
+      {
+        "seed": 428500,
+        "correct": false,
+        "answer": "146",
+        "T": 6,
+        "confidence": 0.0703539028763771,
+        "mean_entropy": 3.0507595539093018
+      },
+      {
+        "seed": 428501,
+        "correct": false,
+        "answer": "196",
+        "T": 7,
+        "confidence": 0.01625051349401474,
+        "mean_entropy": 2.7454593181610107
+      },
+      {
+        "seed": 428502,
+        "correct": false,
+        "answer": "211 Rubin",
+        "T": 10,
+        "confidence": 0.016928382217884064,
+        "mean_entropy": 3.3467800617218018
+      },
+      {
+        "seed": 428503,
+        "correct": false,
+        "answer": "9",
+        "T": 7,
+        "confidence": 0.03253637254238129,
+        "mean_entropy": 2.6780054569244385
+      },
+      {
+        "seed": 428504,
+        "correct": false,
+        "answer": "52",
+        "T": 6,
+        "confidence": 0.021586183458566666,
+        "mean_entropy": 2.6425325870513916
+      },
+      {
+        "seed": 428505,
+        "correct": false,
+        "answer": "57",
+        "T": 5,
+        "confidence": 0.04774320870637894,
+        "mean_entropy": 2.775970220565796
+      },
+      {
+        "seed": 428506,
+        "correct": false,
+        "answer": "40",
+        "T": 5,
+        "confidence": 0.08810821175575256,
+        "mean_entropy": 2.775240659713745
+      },
+      {
+        "seed": 428507,
+        "correct": false,
+        "answer": "1194",
+        "T": 6,
+        "confidence": 0.05398391932249069,
+        "mean_entropy": 2.2125422954559326
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "246",
+      "T": 8,
+      "confidence": 0.045940548181533813
+    }
+  },
+  {
+    "idx": 86,
+    "gt_answer": "22",
+    "rollouts": [
+      {
+        "seed": 428600,
+        "correct": false,
+        "answer": "3906",
+        "T": 10,
+        "confidence": 0.015375046990811825,
+        "mean_entropy": 2.7229907512664795
+      },
+      {
+        "seed": 428601,
+        "correct": false,
+        "answer": "357",
+        "T": 7,
+        "confidence": 0.06379784643650055,
+        "mean_entropy": 3.23219633102417
+      },
+      {
+        "seed": 428602,
+        "correct": false,
+        "answer": "182",
+        "T": 7,
+        "confidence": 0.021383456885814667,
+        "mean_entropy": 3.6395039558410645
+      },
+      {
+        "seed": 428603,
+        "correct": false,
+        "answer": "31632",
+        "T": 8,
+        "confidence": 0.042067427188158035,
+        "mean_entropy": 3.3586385250091553
+      },
+      {
+        "seed": 428604,
+        "correct": false,
+        "answer": "40",
+        "T": 9,
+        "confidence": 0.16750496625900269,
+        "mean_entropy": 2.5862390995025635
+      },
+      {
+        "seed": 428605,
+        "correct": false,
+        "answer": "200",
+        "T": 8,
+        "confidence": 0.03537435457110405,
+        "mean_entropy": 2.60258150100708
+      },
+      {
+        "seed": 428606,
+        "correct": false,
+        "answer": "242",
+        "T": 5,
+        "confidence": 0.6593248248100281,
+        "mean_entropy": 2.4036669731140137
+      },
+      {
+        "seed": 428607,
+        "correct": false,
+        "answer": "240",
+        "T": 5,
+        "confidence": 0.12057878077030182,
+        "mean_entropy": 2.28316330909729
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "22",
+      "T": 7,
+      "confidence": 0.9715372323989868
+    }
+  },
+  {
+    "idx": 87,
+    "gt_answer": "9360",
+    "rollouts": [
+      {
+        "seed": 428700,
+        "correct": false,
+        "answer": "31896",
+        "T": 11,
+        "confidence": 0.01576375961303711,
+        "mean_entropy": 3.6007323265075684
+      },
+      {
+        "seed": 428701,
+        "correct": false,
+        "answer": "0.63",
+        "T": 8,
+        "confidence": 0.027033846825361252,
+        "mean_entropy": 2.7592928409576416
+      },
+      {
+        "seed": 428702,
+        "correct": false,
+        "answer": "7188",
+        "T": 7,
+        "confidence": 0.03011396899819374,
+        "mean_entropy": 3.343294858932495
+      },
+      {
+        "seed": 428703,
+        "correct": false,
+        "answer": "760043",
+        "T": 13,
+        "confidence": 0.007078174035996199,
+        "mean_entropy": 3.170978546142578
+      },
+      {
+        "seed": 428704,
+        "correct": false,
+        "answer": "170 June",
+        "T": 12,
+        "confidence": 0.006705028470605612,
+        "mean_entropy": 3.7088756561279297
+      },
+      {
+        "seed": 428705,
+        "correct": false,
+        "answer": "3652.80",
+        "T": 8,
+        "confidence": 0.04280358552932739,
+        "mean_entropy": 3.898770570755005
+      },
+      {
+        "seed": 428706,
+        "correct": false,
+        "answer": "420600",
+        "T": 20,
+        "confidence": 0.0031564871314913034,
+        "mean_entropy": 3.505949020385742
+      },
+      {
+        "seed": 428707,
+        "correct": false,
+        "answer": "230470",
+        "T": 7,
+        "confidence": 0.031907834112644196,
+        "mean_entropy": 3.135549306869507
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "983.996",
+      "T": 25,
+      "confidence": 0.0001646790187805891
+    }
+  },
+  {
+    "idx": 88,
+    "gt_answer": "8000",
+    "rollouts": [
+      {
+        "seed": 428800,
+        "correct": false,
+        "answer": "924080",
+        "T": 6,
+        "confidence": 0.08780189603567123,
+        "mean_entropy": 4.128629684448242
+      },
+      {
+        "seed": 428801,
+        "correct": false,
+        "answer": "200000",
+        "T": 3,
+        "confidence": 0.06287921965122223,
+        "mean_entropy": 2.434027910232544
+      },
+      {
+        "seed": 428802,
+        "correct": false,
+        "answer": "539987",
+        "T": 4,
+        "confidence": 0.2838437557220459,
+        "mean_entropy": 3.05116605758667
+      },
+      {
+        "seed": 428803,
+        "correct": false,
+        "answer": "746",
+        "T": 9,
+        "confidence": 0.018063189461827278,
+        "mean_entropy": 2.8437511920928955
+      },
+      {
+        "seed": 428804,
+        "correct": false,
+        "answer": "33375",
+        "T": 5,
+        "confidence": 0.27808472514152527,
+        "mean_entropy": 3.453702449798584
+      },
+      {
+        "seed": 428805,
+        "correct": false,
+        "answer": "15758000",
+        "T": 6,
+        "confidence": 0.09414264559745789,
+        "mean_entropy": 3.849538803100586
+      },
+      {
+        "seed": 428806,
+        "correct": false,
+        "answer": "19,667",
+        "T": 11,
+        "confidence": 0.008832735940814018,
+        "mean_entropy": 3.508132219314575
+      },
+      {
+        "seed": 428807,
+        "correct": false,
+        "answer": "199333",
+        "T": 6,
+        "confidence": 0.06006031483411789,
+        "mean_entropy": 3.4013354778289795
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "96667",
+      "T": 4,
+      "confidence": 0.09187892824411392
+    }
+  },
+  {
+    "idx": 89,
+    "gt_answer": "24",
+    "rollouts": [
+      {
+        "seed": 428900,
+        "correct": false,
+        "answer": "18",
+        "T": 128,
+        "confidence": 0.015493404120206833,
+        "mean_entropy": 0.9300040006637573
+      },
+      {
+        "seed": 428901,
+        "correct": false,
+        "answer": "890",
+        "T": 10,
+        "confidence": 0.016890699043869972,
+        "mean_entropy": 3.4287619590759277
+      },
+      {
+        "seed": 428902,
+        "correct": false,
+        "answer": "12",
+        "T": 6,
+        "confidence": 0.05916118249297142,
+        "mean_entropy": 2.7077949047088623
+      },
+      {
+        "seed": 428903,
+        "correct": false,
+        "answer": "3",
+        "T": 5,
+        "confidence": 0.1916666030883789,
+        "mean_entropy": 2.617180347442627
+      },
+      {
+        "seed": 428904,
+        "correct": false,
+        "answer": "190",
+        "T": 11,
+        "confidence": 0.9611230492591858,
+        "mean_entropy": 2.6725597381591797
+      },
+      {
+        "seed": 428905,
+        "correct": false,
+        "answer": "222",
+        "T": 28,
+        "confidence": 0.00020000067888759077,
+        "mean_entropy": 3.1188602447509766
+      },
+      {
+        "seed": 428906,
+        "correct": false,
+        "answer": "66",
+        "T": 10,
+        "confidence": 0.009095191024243832,
+        "mean_entropy": 3.410598039627075
+      },
+      {
+        "seed": 428907,
+        "correct": false,
+        "answer": "85",
+        "T": 7,
+        "confidence": 0.208506241440773,
+        "mean_entropy": 2.449308395385742
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "40",
+      "T": 5,
+      "confidence": 0.3881465494632721
+    }
+  },
+  {
+    "idx": 90,
+    "gt_answer": "225",
+    "rollouts": [
+      {
+        "seed": 429000,
+        "correct": false,
+        "answer": "125",
+        "T": 6,
+        "confidence": 0.13459785282611847,
+        "mean_entropy": 1.9992903470993042
+      },
+      {
+        "seed": 429001,
+        "correct": false,
+        "answer": "24.",
+        "T": 12,
+        "confidence": 0.016352878883481026,
+        "mean_entropy": 3.2646806240081787
+      },
+      {
+        "seed": 429002,
+        "correct": false,
+        "answer": "34",
+        "T": 12,
+        "confidence": 0.005558026488870382,
+        "mean_entropy": 2.452687978744507
+      },
+      {
+        "seed": 429003,
+        "correct": false,
+        "answer": "105",
+        "T": 5,
+        "confidence": 0.1070578321814537,
+        "mean_entropy": 2.230968475341797
+      },
+      {
+        "seed": 429004,
+        "correct": false,
+        "answer": "3957",
+        "T": 7,
+        "confidence": 0.05254364013671875,
+        "mean_entropy": 3.303893566131592
+      },
+      {
+        "seed": 429005,
+        "correct": false,
+        "answer": "12",
+        "T": 7,
+        "confidence": 0.02191922813653946,
+        "mean_entropy": 2.8206264972686768
+      },
+      {
+        "seed": 429006,
+        "correct": false,
+        "answer": "11111",
+        "T": 12,
+        "confidence": 0.010118884965777397,
+        "mean_entropy": 3.3308849334716797
+      },
+      {
+        "seed": 429007,
+        "correct": false,
+        "answer": "245",
+        "T": 7,
+        "confidence": 0.17438574135303497,
+        "mean_entropy": 2.898911952972412
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "225",
+      "T": 8,
+      "confidence": 0.8409119248390198
+    }
+  },
+  {
+    "idx": 91,
+    "gt_answer": "28",
+    "rollouts": [
+      {
+        "seed": 429100,
+        "correct": false,
+        "answer": "397",
+        "T": 7,
+        "confidence": 0.12295964360237122,
+        "mean_entropy": 2.7363951206207275
+      },
+      {
+        "seed": 429101,
+        "correct": false,
+        "answer": "70",
+        "T": 8,
+        "confidence": 0.5173618793487549,
+        "mean_entropy": 2.635222911834717
+      },
+      {
+        "seed": 429102,
+        "correct": false,
+        "answer": "50",
+        "T": 9,
+        "confidence": 0.42116764187812805,
+        "mean_entropy": 2.723921775817871
+      },
+      {
+        "seed": 429103,
+        "correct": false,
+        "answer": "14",
+        "T": 8,
+        "confidence": 0.8715304732322693,
+        "mean_entropy": 2.2153916358947754
+      },
+      {
+        "seed": 429104,
+        "correct": false,
+        "answer": "600",
+        "T": 10,
+        "confidence": 0.053362976759672165,
+        "mean_entropy": 2.757431745529175
+      },
+      {
+        "seed": 429105,
+        "correct": false,
+        "answer": "200",
+        "T": 4,
+        "confidence": 0.07437333464622498,
+        "mean_entropy": 2.891296148300171
+      },
+      {
+        "seed": 429106,
+        "correct": false,
+        "answer": "3,000",
+        "T": 8,
+        "confidence": 0.023817239329218864,
+        "mean_entropy": 3.1504876613616943
+      },
+      {
+        "seed": 429107,
+        "correct": false,
+        "answer": "\u1ee5",
+        "T": 10,
+        "confidence": 0.027127427980303764,
+        "mean_entropy": 2.954345464706421
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "28",
+      "T": 7,
+      "confidence": 0.9870822429656982
+    }
+  },
+  {
+    "idx": 92,
+    "gt_answer": "4",
+    "rollouts": [
+      {
+        "seed": 429200,
+        "correct": false,
+        "answer": "12",
+        "T": 10,
+        "confidence": 0.006553620100021362,
+        "mean_entropy": 2.760341167449951
+      },
+      {
+        "seed": 429201,
+        "correct": false,
+        "answer": "7",
+        "T": 7,
+        "confidence": 0.04156484827399254,
+        "mean_entropy": 3.31072998046875
+      },
+      {
+        "seed": 429202,
+        "correct": false,
+        "answer": "25",
+        "T": 9,
+        "confidence": 0.020277773961424828,
+        "mean_entropy": 3.470992088317871
+      },
+      {
+        "seed": 429203,
+        "correct": false,
+        "answer": "2",
+        "T": 5,
+        "confidence": 0.12569765746593475,
+        "mean_entropy": 1.7521331310272217
+      },
+      {
+        "seed": 429204,
+        "correct": false,
+        "answer": "62",
+        "T": 3,
+        "confidence": 0.15104377269744873,
+        "mean_entropy": 3.4633872509002686
+      },
+      {
+        "seed": 429205,
+        "correct": false,
+        "answer": "0",
+        "T": 8,
+        "confidence": 0.01671937108039856,
+        "mean_entropy": 1.6612756252288818
+      },
+      {
+        "seed": 429206,
+        "correct": false,
+        "answer": "58012",
+        "T": 6,
+        "confidence": 0.019298553466796875,
+        "mean_entropy": 2.785576105117798
+      },
+      {
+        "seed": 429207,
+        "correct": false,
+        "answer": "30",
+        "T": 8,
+        "confidence": 0.07109718769788742,
+        "mean_entropy": 3.150451421737671
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "11",
+      "T": 7,
+      "confidence": 0.024036196991801262
+    }
+  },
+  {
+    "idx": 93,
+    "gt_answer": "36",
+    "rollouts": [
+      {
+        "seed": 429300,
+        "correct": false,
+        "answer": "832",
+        "T": 5,
+        "confidence": 0.021176038309931755,
+        "mean_entropy": 2.963367462158203
+      },
+      {
+        "seed": 429301,
+        "correct": false,
+        "answer": "30",
+        "T": 3,
+        "confidence": 0.16077487170696259,
+        "mean_entropy": 1.9822684526443481
+      },
+      {
+        "seed": 429302,
+        "correct": false,
+        "answer": "1.104",
+        "T": 7,
+        "confidence": 0.014843735843896866,
+        "mean_entropy": 2.7411277294158936
+      },
+      {
+        "seed": 429303,
+        "correct": false,
+        "answer": "70.72",
+        "T": 6,
+        "confidence": 0.017613694071769714,
+        "mean_entropy": 3.287919044494629
+      },
+      {
+        "seed": 429304,
+        "correct": false,
+        "answer": "31",
+        "T": 5,
+        "confidence": 0.03915349394083023,
+        "mean_entropy": 2.5984201431274414
+      },
+      {
+        "seed": 429305,
+        "correct": false,
+        "answer": "48",
+        "T": 4,
+        "confidence": 0.028459785506129265,
+        "mean_entropy": 2.234342098236084
+      },
+      {
+        "seed": 429306,
+        "correct": false,
+        "answer": "216",
+        "T": 9,
+        "confidence": 0.01968327723443508,
+        "mean_entropy": 2.3715200424194336
+      },
+      {
+        "seed": 429307,
+        "correct": false,
+        "answer": "38",
+        "T": 3,
+        "confidence": 0.0666954293847084,
+        "mean_entropy": 2.3770573139190674
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "41.3",
+      "T": 9,
+      "confidence": 0.007910951040685177
+    }
+  },
+  {
+    "idx": 94,
+    "gt_answer": "348",
+    "rollouts": [
+      {
+        "seed": 429400,
+        "correct": false,
+        "answer": "12308",
+        "T": 4,
+        "confidence": 0.07593221962451935,
+        "mean_entropy": 2.723611354827881
+      },
+      {
+        "seed": 429401,
+        "correct": false,
+        "answer": "78",
+        "T": 6,
+        "confidence": 0.08974488824605942,
+        "mean_entropy": 3.213249444961548
+      },
+      {
+        "seed": 429402,
+        "correct": false,
+        "answer": "2336",
+        "T": 6,
+        "confidence": 0.03750043362379074,
+        "mean_entropy": 2.6479642391204834
+      },
+      {
+        "seed": 429403,
+        "correct": false,
+        "answer": "918",
+        "T": 3,
+        "confidence": 0.05803469568490982,
+        "mean_entropy": 2.727738380432129
+      },
+      {
+        "seed": 429404,
+        "correct": false,
+        "answer": "111",
+        "T": 7,
+        "confidence": 0.0434052012860775,
+        "mean_entropy": 3.194110631942749
+      },
+      {
+        "seed": 429405,
+        "correct": false,
+        "answer": "2943",
+        "T": 7,
+        "confidence": 0.2811051309108734,
+        "mean_entropy": 3.62361741065979
+      },
+      {
+        "seed": 429406,
+        "correct": false,
+        "answer": "386",
+        "T": 8,
+        "confidence": 0.014048243872821331,
+        "mean_entropy": 3.205831527709961
+      },
+      {
+        "seed": 429407,
+        "correct": false,
+        "answer": "-140",
+        "T": 4,
+        "confidence": 0.07197084277868271,
+        "mean_entropy": 1.5797479152679443
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "192",
+      "T": 7,
+      "confidence": 0.09106656908988953
+    }
+  },
+  {
+    "idx": 95,
+    "gt_answer": "40",
+    "rollouts": [
+      {
+        "seed": 429500,
+        "correct": false,
+        "answer": "12880",
+        "T": 13,
+        "confidence": 0.018401306122541428,
+        "mean_entropy": 3.2985124588012695
+      },
+      {
+        "seed": 429501,
+        "correct": false,
+        "answer": "124",
+        "T": 11,
+        "confidence": 0.07952360063791275,
+        "mean_entropy": 3.7349190711975098
+      },
+      {
+        "seed": 429502,
+        "correct": false,
+        "answer": "64",
+        "T": 3,
+        "confidence": 0.7756950855255127,
+        "mean_entropy": 3.4827654361724854
+      },
+      {
+        "seed": 429503,
+        "correct": false,
+        "answer": "200",
+        "T": 8,
+        "confidence": 0.24461629986763,
+        "mean_entropy": 2.848579168319702
+      },
+      {
+        "seed": 429504,
+        "correct": false,
+        "answer": "60",
+        "T": 11,
+        "confidence": 0.0157783180475235,
+        "mean_entropy": 3.3829596042633057
+      },
+      {
+        "seed": 429505,
+        "correct": false,
+        "answer": "88",
+        "T": 4,
+        "confidence": 0.07832007110118866,
+        "mean_entropy": 3.6958627700805664
+      },
+      {
+        "seed": 429506,
+        "correct": false,
+        "answer": "34",
+        "T": 5,
+        "confidence": 0.1339995563030243,
+        "mean_entropy": 2.884538173675537
+      },
+      {
+        "seed": 429507,
+        "correct": false,
+        "answer": "248",
+        "T": 14,
+        "confidence": 0.06099028140306473,
+        "mean_entropy": 2.9095444679260254
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "40",
+      "T": 9,
+      "confidence": 0.9652127623558044
+    }
+  },
+  {
+    "idx": 96,
+    "gt_answer": "3",
+    "rollouts": [
+      {
+        "seed": 429600,
+        "correct": false,
+        "answer": "16",
+        "T": 6,
+        "confidence": 0.06500618159770966,
+        "mean_entropy": 2.6793768405914307
+      },
+      {
+        "seed": 429601,
+        "correct": false,
+        "answer": "95",
+        "T": 3,
+        "confidence": 0.25808534026145935,
+        "mean_entropy": 2.2953319549560547
+      },
+      {
+        "seed": 429602,
+        "correct": false,
+        "answer": "19",
+        "T": 5,
+        "confidence": 0.11283348500728607,
+        "mean_entropy": 1.5804606676101685
+      },
+      {
+        "seed": 429603,
+        "correct": false,
+        "answer": "20,000",
+        "T": 9,
+        "confidence": 0.057508036494255066,
+        "mean_entropy": 3.109694480895996
+      },
+      {
+        "seed": 429604,
+        "correct": false,
+        "answer": "1.36",
+        "T": 5,
+        "confidence": 0.06982717663049698,
+        "mean_entropy": 2.682770013809204
+      },
+      {
+        "seed": 429605,
+        "correct": false,
+        "answer": "18",
+        "T": 6,
+        "confidence": 0.030939817428588867,
+        "mean_entropy": 3.268413543701172
+      },
+      {
+        "seed": 429606,
+        "correct": false,
+        "answer": "60",
+        "T": 5,
+        "confidence": 0.863392174243927,
+        "mean_entropy": 3.479517698287964
+      },
+      {
+        "seed": 429607,
+        "correct": false,
+        "answer": "60",
+        "T": 3,
+        "confidence": 0.735448956489563,
+        "mean_entropy": 2.5303585529327393
+      }
+    ],
+    "deterministic": {
+      "correct": true,
+      "answer": "3",
+      "T": 5,
+      "confidence": 0.9804389476776123
+    }
+  },
+  {
+    "idx": 97,
+    "gt_answer": "12",
+    "rollouts": [
+      {
+        "seed": 429700,
+        "correct": false,
+        "answer": "8",
+        "T": 5,
+        "confidence": 0.07045537233352661,
+        "mean_entropy": 1.706811547279358
+      },
+      {
+        "seed": 429701,
+        "correct": false,
+        "answer": "14",
+        "T": 7,
+        "confidence": 0.024610215798020363,
+        "mean_entropy": 2.8371260166168213
+      },
+      {
+        "seed": 429702,
+        "correct": false,
+        "answer": "8",
+        "T": 8,
+        "confidence": 0.013152533210814,
+        "mean_entropy": 2.192896604537964
+      },
+      {
+        "seed": 429703,
+        "correct": false,
+        "answer": "6",
+        "T": 5,
+        "confidence": 0.07140514254570007,
+        "mean_entropy": 2.5169453620910645
+      },
+      {
+        "seed": 429704,
+        "correct": false,
+        "answer": "16",
+        "T": 5,
+        "confidence": 0.8718889355659485,
+        "mean_entropy": 1.954949975013733
+      },
+      {
+        "seed": 429705,
+        "correct": false,
+        "answer": "14",
+        "T": 6,
+        "confidence": 0.04302489757537842,
+        "mean_entropy": 2.801323175430298
+      },
+      {
+        "seed": 429706,
+        "correct": false,
+        "answer": "282",
+        "T": 5,
+        "confidence": 0.05650055781006813,
+        "mean_entropy": 3.4905295372009277
+      },
+      {
+        "seed": 429707,
+        "correct": false,
+        "answer": "24",
+        "T": 5,
+        "confidence": 0.04782381281256676,
+        "mean_entropy": 2.993621349334717
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "32",
+      "T": 5,
+      "confidence": 0.3573015630245209
+    }
+  },
+  {
+    "idx": 98,
+    "gt_answer": "5",
+    "rollouts": [
+      {
+        "seed": 429800,
+        "correct": false,
+        "answer": "25",
+        "T": 3,
+        "confidence": 0.09930974990129471,
+        "mean_entropy": 2.1974761486053467
+      },
+      {
+        "seed": 429801,
+        "correct": false,
+        "answer": "200",
+        "T": 6,
+        "confidence": 0.021369142457842827,
+        "mean_entropy": 2.4697072505950928
+      },
+      {
+        "seed": 429802,
+        "correct": false,
+        "answer": "210",
+        "T": 2,
+        "confidence": 0.14113231003284454,
+        "mean_entropy": 0.5050288438796997
+      },
+      {
+        "seed": 429803,
+        "correct": false,
+        "answer": "1",
+        "T": 5,
+        "confidence": 0.021933402866125107,
+        "mean_entropy": 2.2117762565612793
+      },
+      {
+        "seed": 429804,
+        "correct": false,
+        "answer": "31",
+        "T": 3,
+        "confidence": 0.7610716819763184,
+        "mean_entropy": 2.139585256576538
+      },
+      {
+        "seed": 429805,
+        "correct": false,
+        "answer": "45",
+        "T": 2,
+        "confidence": 0.9455923438072205,
+        "mean_entropy": 1.5896868705749512
+      },
+      {
+        "seed": 429806,
+        "correct": false,
+        "answer": "59",
+        "T": 5,
+        "confidence": 0.04755384474992752,
+        "mean_entropy": 2.710742950439453
+      },
+      {
+        "seed": 429807,
+        "correct": false,
+        "answer": "545",
+        "T": 3,
+        "confidence": 0.07094792276620865,
+        "mean_entropy": 2.77939772605896
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "10",
+      "T": 3,
+      "confidence": 0.03607640415430069
+    }
+  },
+  {
+    "idx": 99,
+    "gt_answer": "58",
+    "rollouts": [
+      {
+        "seed": 429900,
+        "correct": false,
+        "answer": "23",
+        "T": 3,
+        "confidence": 0.06038587540388107,
+        "mean_entropy": 2.7940752506256104
+      },
+      {
+        "seed": 429901,
+        "correct": false,
+        "answer": "255",
+        "T": 9,
+        "confidence": 0.008907997980713844,
+        "mean_entropy": 2.6623551845550537
+      },
+      {
+        "seed": 429902,
+        "correct": false,
+        "answer": "40",
+        "T": 7,
+        "confidence": 0.09575428813695908,
+        "mean_entropy": 3.3495161533355713
+      },
+      {
+        "seed": 429903,
+        "correct": false,
+        "answer": "-80",
+        "T": 5,
+        "confidence": 0.07205183058977127,
+        "mean_entropy": 2.4960293769836426
+      },
+      {
+        "seed": 429904,
+        "correct": false,
+        "answer": "302",
+        "T": 4,
+        "confidence": 0.03515755012631416,
+        "mean_entropy": 2.685755491256714
+      },
+      {
+        "seed": 429905,
+        "correct": false,
+        "answer": "61",
+        "T": 5,
+        "confidence": 0.06740152090787888,
+        "mean_entropy": 3.085283041000366
+      },
+      {
+        "seed": 429906,
+        "correct": false,
+        "answer": "6",
+        "T": 8,
+        "confidence": 0.17131030559539795,
+        "mean_entropy": 2.3037497997283936
+      },
+      {
+        "seed": 429907,
+        "correct": false,
+        "answer": "30800",
+        "T": 7,
+        "confidence": 0.014726758934557438,
+        "mean_entropy": 3.3552327156066895
+      }
+    ],
+    "deterministic": {
+      "correct": false,
+      "answer": "40",
+      "T": 7,
+      "confidence": 0.8370575904846191
+    }
+  }
+]

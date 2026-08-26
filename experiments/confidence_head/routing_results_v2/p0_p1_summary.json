@@ -1,0 +1,50 @@
+{
+  "P0.1_bin_analysis": {
+    "GSM8k_terciles": {
+      "high_conf": {
+        "latent_acc": 0.72,
+        "cot_acc": 0.681,
+        "delta": "+3.9pp"
+      },
+      "mid_conf": {
+        "latent_acc": 0.558,
+        "cot_acc": 0.519,
+        "delta": "+3.9pp"
+      },
+      "low_conf": {
+        "latent_acc": 0.224,
+        "cot_acc": 0.315,
+        "delta": "-9.1pp"
+      }
+    },
+    "mechanism_confirmed": true,
+    "note": "High/Mid bins: latent > CoT; Low bin: CoT > latent. Confidence correctly identifies complementary regions."
+  },
+  "P0.2_dominance_margin": {
+    "mean_margin_pp": 0.72,
+    "std_margin_pp": 0.6,
+    "min_margin_pp": 0.26,
+    "all_positive": true,
+    "note": "All margins positive. Larger in high-latent-fraction region (up to 2.5pp)."
+  },
+  "P0.3_multi_criterion_cv": {
+    "argmax_acc": {
+      "acc": "52.5\u00b11.5%",
+      "tokens": 41.4,
+      "saving": "47%"
+    },
+    "argmin_tok_50pct": {
+      "acc": "52.9\u00b11.3%",
+      "tokens": 38.2,
+      "saving": "52%"
+    },
+    "note": "argmax(acc) CV gives 52.5% which is close to peak 52.8%, validating deployability."
+  },
+  "P1.1_colar_routing": {
+    "colar_acc": 0.281,
+    "cot_acc": 0.505,
+    "pareto_dominates_random": true,
+    "best_routing_exceeds_cot": false,
+    "note": "CoLaR too weak to produce sweet spot over CoT, but confidence signal still dominates random."
+  }
+}

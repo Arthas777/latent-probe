@@ -1,0 +1,8 @@
+{
+  "nested_cv_attention": 0.8559906587303847,
+  "fixed_length_attention": 0.8575257027311822,
+  "last_1_steps": 0.8291800757554182,
+  "last_2_steps": 0.8250448551818415,
+  "last_3_steps": 0.8537208441318029,
+  "last_5_steps": 0.836966365733489
+}

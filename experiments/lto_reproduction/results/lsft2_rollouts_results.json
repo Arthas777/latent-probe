@@ -1,0 +1,18 @@
+{
+  "config": {
+    "model": "Latent-SFT-2",
+    "eps": 0.001,
+    "N": 8,
+    "n_problems": 1319
+  },
+  "det_acc": 0.49962092494313876,
+  "oracle_acc": 0.601213040181956,
+  "oracle_delta": 0.10159211523881723,
+  "mean_rollout_acc": 0.4902388172858226,
+  "head_acc": 0.5011372251705838,
+  "head_delta": 0.0015163002274450332,
+  "within_problem_auc": 0.5939420485175202,
+  "pooled_auc": 0.7549465568841778,
+  "n_mixed_problems": 265,
+  "mean_T": 13.910538286580744
+}

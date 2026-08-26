@@ -1,0 +1,13 @@
+{
+  "config": {
+    "N": 8,
+    "tau": 1.0,
+    "seed": 42,
+    "n_problems": 100,
+    "model": "../../Latent-SFT/checkpoints/latent-4"
+  },
+  "step2_diversity": {
+    "answer_agreement_rate": 0.14125,
+    "mean_T_std": 4.337692099674648,
+    "mean_conf_std": 0.11950981446080679,
+    "pass": 

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints (obtain from original authors; see README)
+checkpoints/
+
+# Anonymous submission archive
+latent-probe.zip
+
+# Logs and OS junk
+*.log
+.DS_Store

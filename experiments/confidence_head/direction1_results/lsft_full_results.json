@@ -1,0 +1,17 @@
+{
+  "config": {
+    "eps": 0.001,
+    "N": 8,
+    "n_problems": 1319,
+    "paradigm": "Latent-SFT-4"
+  },
+  "det_acc": 0.44806671721000757,
+  "oracle_acc": 0.48597422289613346,
+  "oracle_delta": 0.037907505686125886,
+  "mean_rollout_acc": 0.4404852160727824,
+  "head_acc": 0.45109931766489764,
+  "sc_acc": 0.44351781652767247,
+  "random_acc": 0.4495830174374526,
+  "within_problem_auc": 0.6802536231884059,
+  "n_mixed_problems": 115
+}

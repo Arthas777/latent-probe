@@ -1,0 +1,18 @@
+{
+  "config": {
+    "sigma_scale": 1000.0,
+    "N": 8,
+    "n_problems": 400
+  },
+  "head_cv_auc": 0.9397764127944008,
+  "det_acc": 0.3075,
+  "oracle_acc": 0.36,
+  "oracle_delta": 0.05249999999999999,
+  "mean_rollout_acc": 0.3009375,
+  "head_acc": 0.305,
+  "head_delta": -0.0025000000000000022,
+  "random_acc": 0.2975,
+  "within_problem_auc": 0.5102106227106226,
+  "pooled_auc": 0.9753308721302405,
+  "n_mixed_problems": 39
+}

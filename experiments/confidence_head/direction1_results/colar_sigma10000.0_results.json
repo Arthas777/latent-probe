@@ -1,0 +1,15 @@
+{
+  "config": {
+    "sigma_scale": 10000.0,
+    "N": 8,
+    "n_problems": 1319,
+    "paradigm": "CoLaR-5"
+  },
+  "det_acc": 0.2721758908263836,
+  "oracle_acc": 0.38741470811220624,
+  "oracle_delta": 0.11523881728582264,
+  "mean_rollout_acc": 0.21095526914329038,
+  "head_acc": 0.2221379833206975,
+  "within_problem_auc": 0.5624074428699093,
+  "n_mixed_problems": 373
+}

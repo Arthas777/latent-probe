@@ -1,0 +1,55 @@
+{
+  "spectral_entropy": {
+    "spearman_rho": -0.13107191326742273,
+    "spearman_pvalue": 1.7847796504876963e-06,
+    "correct_mean": 0.8952039594833667,
+    "correct_std": 0.17088814621632117,
+    "wrong_mean": 0.9443226854310245,
+    "wrong_std": 0.1799111590770296,
+    "welch_t": -4.4898274426296725,
+    "welch_pvalue": 8.519203220991366e-06,
+    "mannwhitney_u": 137051.0,
+    "mannwhitney_pvalue": 1.9514579555255542e-06
+  },
+  "effective_rank": {
+    "spearman_rho": -0.13107191326742273,
+    "spearman_pvalue": 1.7847796504876963e-06,
+    "correct_mean": 2.483847866365215,
+    "correct_std": 0.42638185585321925,
+    "wrong_mean": 2.6118645589053298,
+    "wrong_std": 0.45487373576464357,
+    "welch_t": -4.672630479799126,
+    "welch_pvalue": 3.6499209665945634e-06,
+    "mannwhitney_u": 137051.0,
+    "mannwhitney_pvalue": 1.9514579555255542e-06
+  },
+  "top_sv_ratio": {
+    "spearman_rho": -0.08248892140561653,
+    "spearman_pvalue": 0.0027166304711275053,
+    "correct_mean": 0.7056459286332836,
+    "correct_std": 0.05837694473911223,
+    "wrong_mean": 0.7164082069948665,
+    "wrong_std": 0.0634172459925122,
+    "welch_t": -2.854385342843836,
+    "welch_pvalue": 0.004453727831686115,
+    "mannwhitney_u": 147703.0,
+    "mannwhitney_pvalue": 0.0027478941005404456
+  },
+  "mean_cos_sim": {
+    "spearman_rho": -0.24284198448084962,
+    "spearman_pvalue": 3.705472448614171e-19,
+    "correct_mean": 0.5798976520109459,
+    "correct_std": 0.08340712866656103,
+    "wrong_mean": 0.6273651183502147,
+    "wrong_std": 0.08562890714096846,
+    "welch_t": -8.950532011255365,
+    "welch_pvalue": 4.421928671829483e-18,
+    "mannwhitney_u": 112545.0,
+    "mannwhitney_pvalue": 1.1849647909496318e-18
+  },
+  "n_latent": {
+    "spearman_rho": -0.385873687742635,
+    "spearman_pvalue": 4.430771554178127e-48,
+    "overall_mean": 5.65352539802881
+  }
+}

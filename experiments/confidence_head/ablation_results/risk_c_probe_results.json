@@ -1,0 +1,17 @@
+{
+  "answer_token_probe": {
+    "accuracy": 0.2577710386656558,
+    "top5_accuracy": 0.4306292645943897
+  },
+  "numeric_value_probe": {
+    "exact_match": 0.0,
+    "within_10pct": 0.009855951478392721,
+    "r2": 0.06234716836971854
+  },
+  "conditional_analysis": {
+    "confidence_auc_when_probe_correct": 0.9743589743589743,
+    "confidence_auc_when_probe_wrong": 0.9067647520812607,
+    "n_probe_correct": 340,
+    "n_probe_wrong": 979
+  }
+}

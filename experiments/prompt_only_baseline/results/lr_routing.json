@@ -1,0 +1,11 @@
+{
+  "multi_feature_lr_routing": {
+    "auc": 0.7287303995953465,
+    "acc_mean": 0.5185649268348888,
+    "acc_std": 0.014880265420801618,
+    "tokens": 65.80068556285286,
+    "saving": 16.53176613284839,
+    "delta_vs_cot_pp": 1.3564926834888746,
+    "features": "T, H_spec, LENS"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "prompt_only_routing_cv": {
+    "acc_mean": 0.5102200714368015,
+    "acc_std": 0.019747816916395138,
+    "tokens_mean": 60.95837942159234,
+    "saving_pct": 22.674236199805453
+  },
+  "full_probe_routing_cv": {
+    "acc_mean": 0.525,
+    "acc_std": 0.015,
+    "tokens_mean": 45.2,
+    "saving_pct": 43
+  },
+  "pure_cot": {
+    "acc": 0.505
+  },
+  "prompt_only_probe_auc": 0.7776152327876467,
+  "full_probe_auc": 0.805
+}

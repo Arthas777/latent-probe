@@ -1,0 +1,21 @@
+{
+  "prompt_only": {
+    "mean": 0.769,
+    "std": 0.007,
+    "runs": [
+      0.7636,
+      0.7647,
+      0.7818,
+      0.7682,
+      0.772,
+      0.7703
+    ]
+  },
+  "full_trajectory_reference": {
+    "mean": 0.805,
+    "std": 0.011
+  },
+  "gap": 0.036,
+  "interpretation": "Situation 1: prompt carries substantial signal, latent reasoning augments it by +0.036",
+  "protocol": "MLP probe on last prompt token hidden state (before latent reasoning), nested 5-fold CV, 6 runs"
+}
